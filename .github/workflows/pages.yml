@@ -1,0 +1,75 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # ── Inject write token từ GitHub Secret vào github-config.js ────────────
+      # Token được lưu mã hóa trong GitHub Secrets, KHÔNG bao giờ xuất hiện trong code.
+      # Client nhận token tự động khi tải trang – không cần thiết lập gì thêm.
+      - name: Inject write token for client submissions
+        env:
+          WRITE_TOKEN: ${{ secrets.WRITE_TOKEN }}
+        run: |
+          python3 - << 'PYEOF'
+          import os, json
+
+          token = os.environ.get("WRITE_TOKEN", "")
+          repo_full = os.environ.get("GITHUB_REPOSITORY", "nguyennam90/Check_thiet_bi")
+          owner, repo = repo_full.split("/", 1)
+
+          config_js = f"""/**
+           * Cấu hình GitHub – Tự động tạo bởi GitHub Actions.
+           * Không chỉnh sửa file này trực tiếp.
+           * Token được inject từ GitHub Secret WRITE_TOKEN (không lưu trong code).
+           */
+          const GITHUB_CONFIG = {{
+            owner: "{owner}",
+            repo:  "{repo}",
+            branch: "main",
+            dataFile: "data/inventory.json",
+            writeToken: "{token}",
+          }};
+          """
+
+          with open("static/github-config.js", "w", encoding="utf-8") as f:
+              f.write(config_js)
+
+          if token:
+              print(f"[OK] WRITE_TOKEN da duoc inject ({len(token)} ky tu)")
+              print(f"[OK] Repo detected: {owner}/{repo}")
+          else:
+              print("[WARN] WRITE_TOKEN chua duoc cau hinh - client se khong the gui phieu")
+          PYEOF
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: static
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

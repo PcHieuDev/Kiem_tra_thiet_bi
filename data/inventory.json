@@ -1,0 +1,5627 @@
+{
+  "records": [
+    {
+      "id": "42e8bfdd751943a9b079432f8b9f471b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện Tỉnh",
+        "Họ và tên người sử dụng": "Bùi Thị Hương Thảo",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64HF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "233 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.62",
+        "MAC Address": "18:66:DA:28:CF:69"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T09:36:51",
+      "updatedAt": "2026-06-08T09:36:51"
+    },
+    {
+      "id": "f7d8760cd8d246b589b38c9055e3d05c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Dương Thị Huyền",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "To Be Filled By O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.65",
+        "MAC Address": "70:85:C2:C0:D5:28"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T09:40:32",
+      "updatedAt": "2026-06-08T09:40:32"
+    },
+    {
+      "id": "37c333e2d1e249a28b2991640b4e800a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu Điện Tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Tịnh",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64KM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.63",
+        "MAC Address": "18:66:DA:28:FA:3C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T09:40:57",
+      "updatedAt": "2026-06-08T09:40:57"
+    },
+    {
+      "id": "e39abd2be21b4ccab34c5a25431de8ae",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện Tỉnh",
+        "Họ và tên người sử dụng": "Trần Thị Quỳnh Hoa",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "Tài Chính Kế Hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011331R",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.69",
+        "MAC Address": "38:22:E2:19:3D:5D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T09:41:14",
+      "updatedAt": "2026-06-08T09:41:14"
+    },
+    {
+      "id": "4c0e8133043b4f03928ad0ac3c77c516",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VP Bưu điện Tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thúy Vân",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "65BF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.64",
+        "MAC Address": "18:66:DA:27:EC:FB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201",
+          "serial": "VNC3307752"
+        }
+      ],
+      "createdAt": "2026-06-08T09:44:14",
+      "updatedAt": "2026-06-08T09:44:14"
+    },
+    {
+      "id": "926a0d8318984061b758062adbf40d47",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Hà Thị Nhị",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NHI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3YCB1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.70",
+        "MAC Address": "48:4D:7E:DE:2D:DA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-08T09:46:26",
+      "updatedAt": "2026-06-08T09:46:26"
+    },
+    {
+      "id": "9e78799fcab5436ca4cf0f5ba581e0d6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VPBĐT",
+        "Họ và tên người sử dụng": "lê thị thùy",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "phòng tckh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64RF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.61",
+        "MAC Address": "18:66:DA:28:F5:09"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canonlbp226dw",
+          "serial": "NPZA047586"
+        }
+      ],
+      "createdAt": "2026-06-08T09:49:27",
+      "updatedAt": "2026-06-08T09:49:27"
+    },
+    {
+      "id": "d92d195b5a3a482f8ce1acd0c9720515",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VPBDT",
+        "Họ và tên người sử dụng": "Vương Thị Thanh Huyền",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUYENKT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "65DD8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.60",
+        "MAC Address": "18:66:DA:27:EA:7E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB 2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-08T09:51:24",
+      "updatedAt": "2026-06-08T09:51:24"
+    },
+    {
+      "id": "796f9b50f7a34aa9ad423f7cda246d28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "486040",
+        "Tên Xã": "Xã sơn lĩnh",
+        "Mã Bưu cục": "486040",
+        "Tên Bưu cục": "Bưu điện vh xã sơn lĩnh",
+        "Họ và tên người sử dụng": "Đinh Thị vân huyền",
+        "Mã HRM": "00027986",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Vh",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-08T10:13:44",
+      "updatedAt": "2026-06-08T10:13:44"
+    },
+    {
+      "id": "6878015544f14804b3b6970522663e54",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4809",
+        "Tên Xã": "VP Bưu điện tỉnh",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Đặng Quỳnh Trang",
+        "Mã HRM": "00027851",
+        "Bộ phận / Phòng ban": "Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TH-KT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "659N8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.52",
+        "MAC Address": "18:66:DA:27:EC:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-09T00:57:30",
+      "updatedAt": "2026-06-09T01:18:53"
+    },
+    {
+      "id": "077a1cc0e8d941fcaccfc949cbaf52ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "485820",
+        "Tên Xã": "Xã Hương Sơn",
+        "Mã Bưu cục": "485820",
+        "Tên Bưu cục": "BĐ VHX Sơn Ninh",
+        "Họ và tên người sử dụng": "Dương Thị Bích Liên",
+        "Mã HRM": "00028000",
+        "Bộ phận / Phòng ban": "TBC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-SONNINH-485",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221N7",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "10:B6:76:9E:22:C4"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T02:04:49",
+      "updatedAt": "2026-06-09T02:04:49"
+    },
+    {
+      "id": "f21a290a0c3b4f2d9e98278705d205a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485670",
+        "Tên Bưu cục": "BĐVHX Sơn Bằng",
+        "Họ và tên người sử dụng": "Thái Thị Quỳnh Trang",
+        "Mã HRM": "00027988",
+        "Bộ phận / Phòng ban": "Trưởng Bưu Cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LRC",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "F8:ED:FC:6A:6F:A7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T02:10:50",
+      "updatedAt": "2026-06-09T02:10:50"
+    },
+    {
+      "id": "5c95bd7bcf224e0e94e12b30ed403be1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "486110",
+        "Tên Xã": "sơn phú",
+        "Mã Bưu cục": "486110",
+        "Tên Bưu cục": "bưu điện vhx sơn phú",
+        "Họ và tên người sử dụng": "thái thị xuyên",
+        "Mã HRM": "48.0642",
+        "Bộ phận / Phòng ban": "vhx sơn phú",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-SP6110",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7FPCBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.114",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T02:23:36",
+      "updatedAt": "2026-06-09T02:23:36"
+    },
+    {
+      "id": "f0229d8eecd4403c972434dbfc5bc599",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "bưu cục khai thác hương sơn",
+        "Tên Bưu cục": "485630",
+        "Họ và tên người sử dụng": "phạm thành công",
+        "Mã HRM": "00027968",
+        "Bộ phận / Phòng ban": "bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-HS5630",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72L9BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.20",
+        "MAC Address": "B8:85:84:A9:26:9B"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T02:32:26",
+      "updatedAt": "2026-06-09T02:32:26"
+    },
+    {
+      "id": "a43d4f1cc3a0429592532af05203786c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487880",
+        "Tên Bưu cục": "Cẩm Vịnh·",
+        "Họ và tên người sử dụng": "Phạm· Thị· Hằng··",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-CVINH-48",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011321K",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.213",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "HP LaserJet Pro M203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T02:34:42",
+      "updatedAt": "2026-06-09T02:34:42"
+    },
+    {
+      "id": "c82cce92ba2a47e0a4227024ffa5489e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4831",
+        "Tên Xã": "Hương Sơn",
+        "Mã Bưu cục": "485624",
+        "Tên Bưu cục": "VP BĐH Hương Sơn",
+        "Họ và tên người sử dụng": "Đặng Thị Loan",
+        "Mã HRM": "00027964",
+        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-KT-LOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3020",
+        "Năm sản xuất": "2023",
+        "Serial Number": "7XM6414",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13400",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "455 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.110",
+        "MAC Address": "20:88:10:82:93:AE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "R-41001260"
+        }
+      ],
+      "createdAt": "2026-06-09T02:41:24",
+      "updatedAt": "2026-06-09T02:41:24"
+    },
+    {
+      "id": "26c0e4fc82494585bdf7c2fe1b3969f0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Hương sơn",
+        "Tên Xã": "Hương Sơn",
+        "Mã Bưu cục": "485600",
+        "Tên Bưu cục": "Hương Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Hà",
+        "Mã HRM": "00027953",
+        "Bộ phận / Phòng ban": "Giao dịch Hương sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-HSON1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZY61H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro N 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.150",
+        "MAC Address": "48:4D:7E:DB:6D:23"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T02:42:20",
+      "updatedAt": "2026-06-09T02:42:20"
+    },
+    {
+      "id": "fabb1989b6ab4b92876796c7622cfef8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481129",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Văn Nam",
+        "Mã HRM": "00027592",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CFC4MOK",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 5420",
+        "Năm sản xuất": "",
+        "Serial Number": "5MW08C3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.245",
+        "MAC Address": "74:78:27:6A:51:36"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T02:45:24",
+      "updatedAt": "2026-06-09T02:45:24"
+    },
+    {
+      "id": "01f563e0044b45268e421f96f40464dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "XA SƠN TRUNG",
+        "Tên Xã": "CAO THỊ HƯƠNG LAN",
+        "Mã Bưu cục": "485641",
+        "Tên Bưu cục": "BDVHX SƠN TRUNG",
+        "Họ và tên người sử dụng": "CAO THỊ HƯƠNG LAN",
+        "Mã HRM": "VHX",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FFLPKB5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64FM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "18:66:DA:29:3A:44"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T03:13:20",
+      "updatedAt": "2026-06-09T03:13:20"
+    },
+    {
+      "id": "e1226f79d27b4b3189ca35f7f3cf34d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "4826",
+        "Tên Bưu cục": "Văn phòng Bưu điện xã",
+        "Họ và tên người sử dụng": "Nguyễn Văn Quang",
+        "Mã HRM": "00028037",
+        "Bộ phận / Phòng ban": "Quản lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "284VCK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "",
+        "IP Address": "192.168.1.48",
+        "MAC Address": "F8:DA:0C:36:C1:FB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M706n",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T04:06:58",
+      "updatedAt": "2026-06-09T04:06:58"
+    },
+    {
+      "id": "7d9abaa023094cf0872508e37aefb899",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481690",
+        "Tên Bưu cục": "vhx thach binh",
+        "Họ và tên người sử dụng": "nguyen thi phuc",
+        "Mã HRM": "00028366",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-TBINH-",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VZ81H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "48:4D:7E:DB:84:EA"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T04:14:53",
+      "updatedAt": "2026-06-09T04:14:53"
+    },
+    {
+      "id": "b4e5d70963614b8ea0abbb653cf0ff2b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Hương Sơn",
+        "Tên Xã": "Hương Sơn",
+        "Mã Bưu cục": "485600",
+        "Tên Bưu cục": "Hương Sơn",
+        "Họ và tên người sử dụng": "Hồ Thị Mỹ",
+        "Mã HRM": "00027966",
+        "Bộ phận / Phòng ban": "kho quỵ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-3MCSUMM",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.122",
+        "MAC Address": "D8:5E:D3:97:54:D3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T07:44:58",
+      "updatedAt": "2026-06-09T07:44:58"
+    },
+    {
+      "id": "e1714cc023fd424ba5872a543fc80524",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484620",
+        "Tên Bưu cục": "BC XUÂN THÀNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ PHƯƠNG NHUNG",
+        "Mã HRM": "00224017",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-484620-XUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7FBGBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "B8:85:84:AB:18:B7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T08:08:57",
+      "updatedAt": "2026-06-09T08:08:57"
+    },
+    {
+      "id": "080885c6fc6840f08bb211df2a5001f1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487901",
+        "Tên Bưu cục": "bdvh cẩm thành",
+        "Họ và tên người sử dụng": "phạm thị dung",
+        "Mã HRM": "00028214",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1FGH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "64:00:6A:02:16:93"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T08:27:19",
+      "updatedAt": "2026-06-09T08:27:19"
+    },
+    {
+      "id": "a179fe3f1e8e4735990514ec379eb6ed",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4831",
+        "Tên Xã": "Xã Hương sơn",
+        "Mã Bưu cục": "485624",
+        "Tên Bưu cục": "VP Bưu điện xã Hương Sơn",
+        "Họ và tên người sử dụng": "Lê Thị Ánh Tuyết",
+        "Mã HRM": "00027971",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "2015",
+        "Serial Number": "8CC0490QZY",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro N 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.43.146.60",
+        "MAC Address": "30:24:A9:85:84:C1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T08:34:31",
+      "updatedAt": "2026-06-09T09:34:30"
+    },
+    {
+      "id": "2defa9263d1e4f67ad2f6c188e2d0c4d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487860",
+        "Tên Bưu cục": "bưu điện vhx cẩm bình",
+        "Họ và tên người sử dụng": "ngô thị hằng",
+        "Mã HRM": "00028180",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-CBINH-48",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZC91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "48:4D:7E:DE:26:8D"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T08:36:32",
+      "updatedAt": "2026-06-09T08:36:32"
+    },
+    {
+      "id": "0b30b3dc0a294f41836eb43909ef74ea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Lê Thị Bích Thủy",
+        "Mã HRM": "00027595",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KTNV-BTHUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64VF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.14",
+        "MAC Address": "18:66:DA:28:FA:C5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T09:37:39",
+      "updatedAt": "2026-06-09T09:37:39"
+    },
+    {
+      "id": "75912094644649d9878e59fb214f6047",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484410",
+        "Tên Bưu cục": "tiên điền",
+        "Họ và tên người sử dụng": "võ thị chung",
+        "Mã HRM": "00099510",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TIENDIEN-48",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "04:D4:C4:EE:03:C1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Pro M201dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T01:03:03",
+      "updatedAt": "2026-06-10T01:03:03"
+    },
+    {
+      "id": "29e145c1270446e682393915cb4e586e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484600",
+        "Tên Xã": "TIÊN ĐIỀN",
+        "Mã Bưu cục": "484600",
+        "Tên Bưu cục": "VHX-XUÂN MỸ",
+        "Họ và tên người sử dụng": "PHAN THỊ GẤM",
+        "Mã HRM": "00255532",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-1FEIE27",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72D7BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "B8:85:84:AA:ED:F5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "Laser Jet Pro M201dw"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T01:04:14",
+      "updatedAt": "2026-06-10T01:04:14"
+    },
+    {
+      "id": "f45cc97ffd1c45d6865b5b535807a679",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482070",
+        "Tên Bưu cục": "thạch bằng",
+        "Họ và tên người sử dụng": "trần thị chiến",
+        "Mã HRM": "00236153",
+        "Bộ phận / Phòng ban": "văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LH-KT-111",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B25CH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "64:00:6A:2F:38:0E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T01:10:23",
+      "updatedAt": "2026-06-10T01:36:24"
+    },
+    {
+      "id": "57faa0ac35dd4f3488f721eb7469d24b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4822",
+        "Tên Xã": "Bưu điện xã Tiên Điền",
+        "Mã Bưu cục": "484400",
+        "Tên Bưu cục": "Nghi Xuân",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thương",
+        "Mã HRM": "00104563",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LSV",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.144.100",
+        "MAC Address": "F8:ED:FC:6A:6F:53"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T01:15:04",
+      "updatedAt": "2026-06-10T01:15:04"
+    },
+    {
+      "id": "583f43ab1b40448e80cb31c283162f03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487600",
+        "Tên Bưu cục": "Bưu cục GDTT Xã Cẩm Xuyên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Lan Anh",
+        "Mã HRM": "00098837",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221Y7",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.107",
+        "MAC Address": "10:B6:76:9E:22:57"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "S420BUH231060017"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": "18063010506649"
+        }
+      ],
+      "createdAt": "2026-06-10T01:20:55",
+      "updatedAt": "2026-06-10T01:20:55"
+    },
+    {
+      "id": "44c630badc3e41f69440ea251d101cc1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487600",
+        "Tên Bưu cục": "Bưu cục GDTT Xã Cẩm Xuyên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Hạnh",
+        "Mã HRM": "00028161",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "1XB1DK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.0.116",
+        "MAC Address": "8C:EC:4B:40:D2:E8"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra Ds22",
+          "serial": "20214010550617"
+        }
+      ],
+      "createdAt": "2026-06-10T01:22:34",
+      "updatedAt": "2026-06-10T01:22:34"
+    },
+    {
+      "id": "0ad2d1b06dfb4a4d83e13bca81261c79",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Lê Thị Hương Loan",
+        "Mã HRM": "00027552",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-C818MBF",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15s-fq1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD105M7R6",
+        "CPU": "Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.72",
+        "MAC Address": "A4:97:B1:D7:9E:F5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T01:31:46",
+      "updatedAt": "2026-06-10T01:31:46"
+    },
+    {
+      "id": "65b66a72a37849b3a0908d0a1eb05e31",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "486280",
+        "Tên Bưu cục": "Sơn Hàm",
+        "Họ và tên người sử dụng": "Ngô Thị Nhung",
+        "Mã HRM": "00028005",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LNY",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "F8:ED:FC:6A:6F:C7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T01:45:35",
+      "updatedAt": "2026-06-10T01:45:35"
+    },
+    {
+      "id": "b65406826f934604a2bf5aed38034049",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487830",
+        "Tên Bưu cục": "bưu điện văn hóa cẩm quang",
+        "Họ và tên người sử dụng": "Trần Thị Thanh",
+        "Mã HRM": "00101556",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-CQUANG-4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "646L8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "470 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "18:66:DA:28:9B:8F"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "zebra",
+          "serial": "ds22"
+        }
+      ],
+      "createdAt": "2026-06-10T01:55:47",
+      "updatedAt": "2026-06-10T01:55:47"
+    },
+    {
+      "id": "72eaea6d6f634c7695f12c8ceba2fbe0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480000",
+        "Tên Bưu cục": "BƯU ĐIỆN TỈNH HÀ TĨNH",
+        "Họ và tên người sử dụng": "NGUYỄN ANH MINH",
+        "Mã HRM": "00225345",
+        "Bộ phận / Phòng ban": "PHÒNG TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GIANGTC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64LC8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.71",
+        "MAC Address": "18:66:DA:28:CC:69"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T02:16:28",
+      "updatedAt": "2026-06-10T02:16:28"
+    },
+    {
+      "id": "01d4f7c2258c4643ac1040281ed53ef4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "PHAN THỊ HUYỀN TRANG",
+        "Mã HRM": "00027596",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KTNV-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "656J8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "455 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.17134",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.11",
+        "MAC Address": "18:66:DA:27:E5:C6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T02:16:57",
+      "updatedAt": "2026-06-10T02:16:57"
+    },
+    {
+      "id": "a009849d34fc4f3b92564000b7bd5684",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Lê Đức Anh",
+        "Mã HRM": "00027585",
+        "Bộ phận / Phòng ban": "Phòng TCKH - Bưu điện tỉnh Hà Tĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LEDUCANH",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP ProBook 440 G5",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD8401NQ0",
+        "CPU": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "905 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.4.173",
+        "MAC Address": "7C:2A:31:F0:D8:1D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T02:19:32",
+      "updatedAt": "2026-06-10T02:19:32"
+    },
+    {
+      "id": "358dd70265284f78841157b085185268",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Việt Hoa",
+        "Mã HRM": "00027590",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QPKNNLK",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63XJ8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "162 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.13",
+        "MAC Address": "18:66:DA:28:CE:B5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T03:25:06",
+      "updatedAt": "2026-06-10T03:25:06"
+    },
+    {
+      "id": "756357d4eb4442b2918ebf0d08ca5423",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nguyệt",
+        "Mã HRM": "00027577",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5EUDF62",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64HM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.17",
+        "MAC Address": "18:66:DA:28:CC:48"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T04:17:30",
+      "updatedAt": "2026-06-10T04:17:30"
+    },
+    {
+      "id": "9cf0e19d37c0464384ab4108f257a1f4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nguyệt",
+        "Mã HRM": "00027577",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5EUDF62",
+        "Loại máy": "",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T04:25:09",
+      "updatedAt": "2026-06-10T04:25:09"
+    },
+    {
+      "id": "ba6deedab152419b8740aeac7709a553",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương Thảo",
+        "Mã HRM": "00027594",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTVH-THAO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6WXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.16",
+        "MAC Address": "50:9A:4C:15:7F:6B"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T04:27:47",
+      "updatedAt": "2026-06-10T04:27:47"
+    },
+    {
+      "id": "6d77877018d74a84a1c9a6834b9f4d89",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481920",
+        "Tên Bưu cục": "KT Thach Ha",
+        "Họ và tên người sử dụng": "Nguyen Minh Nguyet",
+        "Mã HRM": "481920",
+        "Bộ phận / Phòng ban": "KT Thach Ha",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-1304",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.4",
+        "MAC Address": "18:C0:4D:1F:4D:0A"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "Winson",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T07:25:57",
+      "updatedAt": "2026-06-10T07:25:57"
+    },
+    {
+      "id": "258a1caf448343408848ecf3629c95c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481920",
+        "Tên Bưu cục": "KT Thạch Hà",
+        "Họ và tên người sử dụng": "Lê Thị Hồng",
+        "Mã HRM": "0002763",
+        "Bộ phận / Phòng ban": "KT Thạch Hà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-194",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0490R0B",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.194",
+        "MAC Address": "30:24:A9:85:81:A2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T07:28:11",
+      "updatedAt": "2026-06-10T07:28:11"
+    },
+    {
+      "id": "9c05e26674264e03aca39162ef87208f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "48",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nga",
+        "Mã HRM": "00027582",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGA",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "6HZS3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.101",
+        "MAC Address": "58:FB:84:08:CA:D7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T07:38:22",
+      "updatedAt": "2026-06-10T07:38:22"
+    },
+    {
+      "id": "39627152478b46f18a8bcc2c0db90b71",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "Nguyen Thi Lam",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "Bao Chi",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "37OV2U6BYCXD4UA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2QL862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.199",
+        "MAC Address": "64:00:6A:01:E5:4D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro M201dw",
+          "serial": "VNC3G12643"
+        }
+      ],
+      "createdAt": "2026-06-10T07:41:09",
+      "updatedAt": "2026-06-10T07:41:09"
+    },
+    {
+      "id": "d5ef6f08ea804b2e8888084807b9306c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-190",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0490QZD",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "463 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.190",
+        "MAC Address": "30:24:A9:85:84:C6"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "Zebra DS22",
+          "serial": "20206010551859"
+        }
+      ],
+      "createdAt": "2026-06-10T07:43:33",
+      "updatedAt": "2026-06-10T07:43:33"
+    },
+    {
+      "id": "ad9f5d9637fe45758956082c4c330dbc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484450",
+        "Tên Bưu cục": "Văn Hóa Xã Xuân Hải",
+        "Họ và tên người sử dụng": "Hoàng Thị Nhung",
+        "Mã HRM": "00027820",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B06G862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.16299",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "64:00:6A:01:E5:4A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T07:49:42",
+      "updatedAt": "2026-06-10T07:49:42"
+    },
+    {
+      "id": "b8564002b54640f5968ca46bbde32175",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "487220",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487220",
+        "Tên Bưu cục": "487220",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ LIỆU",
+        "Mã HRM": "00100850",
+        "Bộ phận / Phòng ban": "VHX HÒA HẢI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HK-HHI-4872",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZV71H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.18",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T07:52:59",
+      "updatedAt": "2026-06-10T07:52:59"
+    },
+    {
+      "id": "d9264ce5942548909ebce19d8ce7a800",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-195",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2DGH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.195",
+        "MAC Address": "50:9A:4C:15:7F:9C"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "Honeywell 1450G",
+          "serial": "17074B198D"
+        }
+      ],
+      "createdAt": "2026-06-10T07:53:59",
+      "updatedAt": "2026-06-10T07:53:59"
+    },
+    {
+      "id": "244d2b6b24ac4f8e86d064dc870bed6c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487220",
+        "Tên Bưu cục": "Hòa Hải",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ LIỆU",
+        "Mã HRM": "00100850",
+        "Bộ phận / Phòng ban": "VHX HÒA HẢI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HK-HHI-4872",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZV71H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.18",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T07:55:03",
+      "updatedAt": "2026-06-10T07:56:14"
+    },
+    {
+      "id": "27d9e6de0083476aa0d20b01b9ffd373",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-193",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133C2",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.193",
+        "MAC Address": "38:22:E2:18:89:7B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TPL TD-401",
+          "serial": "270SK010051"
+        }
+      ],
+      "createdAt": "2026-06-10T07:57:57",
+      "updatedAt": "2026-06-10T07:57:57"
+    },
+    {
+      "id": "48f6611eef824b81b8ab97efff6da446",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487220",
+        "Tên Bưu cục": "487220",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ LIỆU",
+        "Mã HRM": "00100850",
+        "Bộ phận / Phòng ban": "VHX HÒA HẢI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HK-HHI-4872",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZV71H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.18",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T07:58:01",
+      "updatedAt": "2026-06-10T07:58:01"
+    },
+    {
+      "id": "a0697b6983b7467688c601699c6b10ab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Nghiêm Thị Phương Chi",
+        "Mã HRM": "00027781",
+        "Bộ phận / Phòng ban": "bcp Hồng Lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "winson",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T07:59:02",
+      "updatedAt": "2026-06-10T07:59:02"
+    },
+    {
+      "id": "922879653ff846b78cbd294418b0c889",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-193",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133C2",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.193",
+        "MAC Address": "38:22:E2:18:89:7B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TPL TD-401",
+          "serial": "270SK010051"
+        },
+        {
+          "type": "scanner",
+          "name": "WINSON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:02:08",
+      "updatedAt": "2026-06-10T08:02:08"
+    },
+    {
+      "id": "46943ed5b384402abc3fdcd1da7463c8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483700",
+        "Tên Bưu cục": "Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Nguyễn Nữ Thanh Loan",
+        "Mã HRM": "00027751",
+        "Bộ phận / Phòng ban": "Giao dịch trung tâm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOSTPC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72D9BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.143.154",
+        "MAC Address": "B8:85:84:AA:F2:05"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:07:30",
+      "updatedAt": "2026-06-10T08:07:30"
+    },
+    {
+      "id": "d56167f40c4245858110499b1ea30f7f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-197",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2PG862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.197",
+        "MAC Address": "64:00:6A:01:E6:4E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J204204285"
+        },
+        {
+          "type": "scanner",
+          "name": "HONEYWELL",
+          "serial": "00102038A9C8"
+        }
+      ],
+      "createdAt": "2026-06-10T08:09:58",
+      "updatedAt": "2026-06-10T08:09:58"
+    },
+    {
+      "id": "9895541597a34f6986e52c0e44707569",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480220",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480220",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-196",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "J0XBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.196",
+        "MAC Address": "F8:BC:12:A2:D6:8F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "GK420D",
+          "serial": "CA023192649"
+        },
+        {
+          "type": "photocopier",
+          "name": "LPB 2900",
+          "serial": "050972-11"
+        }
+      ],
+      "createdAt": "2026-06-10T08:10:14",
+      "updatedAt": "2026-06-10T08:10:14"
+    },
+    {
+      "id": "34ee9c3736974a41a43474fd28977889",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484660",
+        "Tên Bưu cục": "VĂN HÓA XÃ XUÂN LAM",
+        "Họ và tên người sử dụng": "TRẦN THỊ CHÂU",
+        "Mã HRM": "00027822",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6CWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F8:BC:12:A6:16:C9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T08:14:04",
+      "updatedAt": "2026-06-10T08:14:04"
+    },
+    {
+      "id": "1e03696cbf6a44868c5b327b95a429a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-197",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2PG862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.197",
+        "MAC Address": "64:00:6A:01:E6:4E"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "HONEYWELL 1450G",
+          "serial": "17074B38E6"
+        }
+      ],
+      "createdAt": "2026-06-10T08:14:48",
+      "updatedAt": "2026-06-10T08:14:48"
+    },
+    {
+      "id": "488d5841de3044a194a1e32993f03fca",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483010",
+        "Tên Bưu cục": "Bưu Điện VHX Tân Lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Cẩm",
+        "Mã HRM": "0008299",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "máy tính bàn",
+        "Loại máy": "DELL",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:15:32",
+      "updatedAt": "2026-06-10T08:15:32"
+    },
+    {
+      "id": "83ff2c00fb494fc6b950cdeb09e6f3d2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "BƯU ĐIỆN TỈNH HÀ TĨNH",
+        "Họ và tên người sử dụng": "NGUYỄN ANH MINH",
+        "Mã HRM": "00225345",
+        "Bộ phận / Phòng ban": "PHÒNG TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GIANGTC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64LC8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.71",
+        "MAC Address": "18:66:DA:28:CC:69"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T08:15:39",
+      "updatedAt": "2026-06-10T08:15:39"
+    },
+    {
+      "id": "f6fcacfc04844f379de5101f5dcd46da",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-188",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LH7",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.188",
+        "MAC Address": "10:B6:76:9E:C9:90"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TLP",
+          "serial": "270SK010066"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:15:46",
+      "updatedAt": "2026-06-10T08:15:46"
+    },
+    {
+      "id": "c69609ce10934933a2ff76f801d5c2a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483700",
+        "Tên Bưu cục": "HỒNG LĨNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HẰNG",
+        "Mã HRM": "00027756",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HLGD119",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.43.143.119",
+        "MAC Address": "2C:F0:5D:54:DA:64"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:16:35",
+      "updatedAt": "2026-06-10T08:16:35"
+    },
+    {
+      "id": "113c146ad9bf4cde8bffe40ee2626356",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487690",
+        "Tên Bưu cục": "BCVH CẨM XUYÊN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THANH LOAN",
+        "Mã HRM": "00028154",
+        "Bộ phận / Phòng ban": "VẬN HÀNH CẨM XUYÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-GD29",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B0QDH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.149.107",
+        "MAC Address": "64:00:6A:01:E5:B8"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "KAW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:16:38",
+      "updatedAt": "2026-06-10T08:16:38"
+    },
+    {
+      "id": "dcbaf774f98f4f7abf3b4ecfd5fcd62e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "xuân phổ",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484470",
+        "Tên Bưu cục": "bưu cục vhx xuân phổ",
+        "Họ và tên người sử dụng": "nguyễn thị duyên",
+        "Mã HRM": "00027805",
+        "Bộ phận / Phòng ban": "vhx xuân phổ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOSTPC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1SF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "458 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "64:00:6A:01:E5:61"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T08:16:38",
+      "updatedAt": "2026-06-10T08:16:38"
+    },
+    {
+      "id": "29528de9c92f4d1399b7e05a1fa3fefd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-192",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221QK",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.192",
+        "MAC Address": "10:B6:76:9E:20:C7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TPL TD-401",
+          "serial": "270SK010005"
+        },
+        {
+          "type": "scanner",
+          "name": "WINSON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:16:57",
+      "updatedAt": "2026-06-10T08:16:57"
+    },
+    {
+      "id": "13c03112b8134d5998e51011465b6967",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BĐX Thạch Tân",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482530",
+        "Tên Bưu cục": "BĐX Thạch Tân",
+        "Họ và tên người sử dụng": "võ thị đào",
+        "Mã HRM": "00027659",
+        "Bộ phận / Phòng ban": "BĐX kiêm phát xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THACHTAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "71V6BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.238",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:18:21",
+      "updatedAt": "2026-06-10T08:18:21"
+    },
+    {
+      "id": "5f4cf3d6d7d0445a896a91547c28dbbb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484660",
+        "Tên Bưu cục": "VĂN HÓA XÃ XUÂN LAM",
+        "Họ và tên người sử dụng": "TRẦN THỊ CHÂU",
+        "Mã HRM": "00027822",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6CWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F8:BC:12:A6:16:C9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xPRINTER",
+          "serial": "58"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:18:52",
+      "updatedAt": "2026-06-10T08:18:52"
+    },
+    {
+      "id": "a663396ba8b142c29177e6a779a263f6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-191",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63RK8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.191",
+        "MAC Address": "18:66:DA:28:80:80"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J204203664"
+        },
+        {
+          "type": "scanner",
+          "name": "KAW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:21:41",
+      "updatedAt": "2026-06-10T08:21:41"
+    },
+    {
+      "id": "5f58023615964208a0460da45584cb2c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "482990",
+        "Tên Xã": "Hồng lộc",
+        "Mã Bưu cục": "482990",
+        "Tên Bưu cục": "Hồng lộc",
+        "Họ và tên người sử dụng": "Ngô Đức Qúy",
+        "Mã HRM": "00028303",
+        "Bộ phận / Phòng ban": "VHX HỒNG LỘC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LNF",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "A8:42:A1:B0:F1:F5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-10T08:21:50",
+      "updatedAt": "2026-06-10T08:21:50"
+    },
+    {
+      "id": "d1749c15b16d4044bec417ad8cb86afb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Bưu điện tỉnh Hà Tĩnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Khánh Hoài",
+        "Mã HRM": "00027549",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "Máy vi tính bàn",
+        "Tên máy (Hostname)": "HOAI",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133CW",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "480 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.86",
+        "MAC Address": "38:22:E2:18:91:EF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp laser Jet Pro M201 dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:24:20",
+      "updatedAt": "2026-06-10T08:24:20"
+    },
+    {
+      "id": "cadb3492788e4ffdb7e9ba2ed2f96dbb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484470",
+        "Tên Bưu cục": "bưu cục vhx xuân phổ",
+        "Họ và tên người sử dụng": "nguyễn thị duyên",
+        "Mã HRM": "00027805",
+        "Bộ phận / Phòng ban": "vhx xuân phổ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOSTPC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1SF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "458 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "64:00:6A:01:E5:61"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:24:55",
+      "updatedAt": "2026-06-10T08:24:55"
+    },
+    {
+      "id": "46f10bf2bd5041a39df606d9aa40d89e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-189",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "83ZD8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.189",
+        "MAC Address": "D8:9E:F3:3D:0C:15"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "symbol LI4278",
+          "serial": "1409300501159"
+        }
+      ],
+      "createdAt": "2026-06-10T08:25:54",
+      "updatedAt": "2026-06-10T08:25:54"
+    },
+    {
+      "id": "3c9b4ec496424ef4b41305bbdfcc046b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4862",
+        "Tên Xã": "Hương Khê",
+        "Mã Bưu cục": "486900",
+        "Tên Bưu cục": "GD Hương Khê",
+        "Họ và tên người sử dụng": "Cao Thị Thanh Hoa",
+        "Mã HRM": "00028061",
+        "Bộ phận / Phòng ban": "Kiểm soát viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GD212",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "7BWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.148.27",
+        "MAC Address": "F8:BC:12:A6:1B:BB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zbẻa",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:27:40",
+      "updatedAt": "2026-06-10T08:27:40"
+    },
+    {
+      "id": "77045f7cc35148c185cab36065bc654e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481110",
+        "Tên Bưu cục": "BCP Ha Tinh",
+        "Họ và tên người sử dụng": "BCP Ha Tinh",
+        "Mã HRM": "481110",
+        "Bộ phận / Phòng ban": "BCP Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-171",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63YH8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.171",
+        "MAC Address": "18:66:DA:28:7B:AF"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "MOTOROLA",
+          "serial": "1322600501123"
+        }
+      ],
+      "createdAt": "2026-06-10T08:29:05",
+      "updatedAt": "2026-06-10T08:29:05"
+    },
+    {
+      "id": "0e677602bf214b21b02ab362d38e2b2f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481110",
+        "Tên Bưu cục": "BCP Ha Tinh",
+        "Họ và tên người sử dụng": "BCP Ha Tinh",
+        "Mã HRM": "481110",
+        "Bộ phận / Phòng ban": "BCP Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TTKTVC-172",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "J5WBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.172",
+        "MAC Address": "F8:BC:12:A6:16:11"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "symbol",
+          "serial": "1526000501367"
+        }
+      ],
+      "createdAt": "2026-06-10T08:31:15",
+      "updatedAt": "2026-06-10T08:31:15"
+    },
+    {
+      "id": "a4cf10d041034e77b17a417444aadd4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480200",
+        "Tên Bưu cục": "KT Ha Tinh",
+        "Họ và tên người sử dụng": "KT Ha Tinh",
+        "Mã HRM": "480200",
+        "Bộ phận / Phòng ban": "KT Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NBLV784",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64BL8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.170",
+        "MAC Address": "D8:9E:F3:3D:10:37"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "symbol",
+          "serial": "1526000500519"
+        }
+      ],
+      "createdAt": "2026-06-10T08:31:32",
+      "updatedAt": "2026-06-10T08:31:32"
+    },
+    {
+      "id": "59e885811bfb4d209de3df71ff0e3a1e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4822",
+        "Tên Xã": "Tiên điền",
+        "Mã Bưu cục": "484400",
+        "Tên Bưu cục": "nghi xuân",
+        "Họ và tên người sử dụng": "Trần Thị Hoài",
+        "Mã HRM": "00262282",
+        "Bộ phận / Phòng ban": "kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-NX-KETOAN1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63YF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.10.15",
+        "MAC Address": "18:66:DA:28:CA:48"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T08:33:05",
+      "updatedAt": "2026-06-10T08:33:05"
+    },
+    {
+      "id": "5977f07f9d1c4e54b8208ccb7374ef9a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4862",
+        "Tên Xã": "Hương Khê",
+        "Mã Bưu cục": "486900",
+        "Tên Bưu cục": "Giao dịch Hương Khê",
+        "Họ và tên người sử dụng": "Phạm Thị Mến",
+        "Mã HRM": "00028066",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE12320YF",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.148.26",
+        "MAC Address": "BC:E9:2F:A1:BE:C9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:34:10",
+      "updatedAt": "2026-06-10T08:34:10"
+    },
+    {
+      "id": "61e2d6d6258243c28a538725b804463c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484500",
+        "Tên Bưu cục": "vhx xuân đan",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu",
+        "Mã HRM": "00027803",
+        "Bộ phận / Phòng ban": "giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-XUANDAN-484",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "79GFBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "B8:85:84:AB:18:20"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "posbank - model A8",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:37:46",
+      "updatedAt": "2026-06-10T08:37:46"
+    },
+    {
+      "id": "adf0aad9a09f4f42ac2c0a3149031d24",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4880",
+        "Tên Xã": "Hương Bình",
+        "Mã Bưu cục": "487100",
+        "Tên Bưu cục": "BC3 Phúc Đồng",
+        "Họ và tên người sử dụng": "Cao Thị Thanh Hoa",
+        "Mã HRM": "00028106",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HK-PD487100",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63SF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "18:66:DA:28:C9:7B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:39:08",
+      "updatedAt": "2026-06-10T08:39:08"
+    },
+    {
+      "id": "6db08d0ff62d498b82d718ba3f3bee4e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482590",
+        "Tên Bưu cục": "BĐVHX Thạch Lâm",
+        "Họ và tên người sử dụng": "pham thi hường",
+        "Mã HRM": "00027680",
+        "Bộ phận / Phòng ban": "BĐVHX Thạch Lâm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-THACHLAM-48",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221XH",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "10:B6:76:9E:C5:FF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:40:50",
+      "updatedAt": "2026-06-10T08:40:50"
+    },
+    {
+      "id": "a9876e4d62744f769c140de2eafaff6f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL Ha Tinh",
+        "Họ và tên người sử dụng": "KHL Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0490QZV",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "445 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.214",
+        "MAC Address": "30:24:A9:85:84:BB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter XP-470B",
+          "serial": "S470BUH147050028"
+        },
+        {
+          "type": "scanner",
+          "name": "HONEYWELL 1452G",
+          "serial": "17077B1729"
+        }
+      ],
+      "createdAt": "2026-06-10T08:43:08",
+      "updatedAt": "2026-06-10T08:43:08"
+    },
+    {
+      "id": "6d770aff4c6b40328d15812a49b284c6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL TP Ha Tinh",
+        "Họ và tên người sử dụng": "KHL TP Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL TP Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-KHL211",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63VF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.211",
+        "MAC Address": "18:66:DA:28:80:43"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HoneyWell",
+          "serial": "17072B0AF5"
+        }
+      ],
+      "createdAt": "2026-06-10T08:44:34",
+      "updatedAt": "2026-06-11T06:47:18"
+    },
+    {
+      "id": "1644e0b407244dc9ae74242aee9f4410",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488070",
+        "Tên Bưu cục": "quán mới",
+        "Họ và tên người sử dụng": "nguyễn thị thùy dung",
+        "Mã HRM": "00223268",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KEIFQ37",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "798DBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "192.168.1.19",
+        "MAC Address": "B8:85:84:AB:01:01"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "17074b3aa3"
+        }
+      ],
+      "createdAt": "2026-06-10T08:46:12",
+      "updatedAt": "2026-06-10T08:46:12"
+    },
+    {
+      "id": "6a2222eb2bff41679c33037b53bdd160",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480900",
+        "Tên Bưu cục": "KT1",
+        "Họ và tên người sử dụng": "KT1",
+        "Mã HRM": "480900",
+        "Bộ phận / Phòng ban": "KT1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HT-HE1-201",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2FF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "437 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Shared 64-bit MUI (English) 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.201",
+        "MAC Address": "64:00:6A:01:E6:20"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZABRA ZD620",
+          "serial": "D3J204204484"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": "18155523400446"
+        }
+      ],
+      "createdAt": "2026-06-10T08:48:04",
+      "updatedAt": "2026-06-10T08:48:04"
+    },
+    {
+      "id": "4c5aa4048502402e87926043c557d193",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL Ha Tinh",
+        "Họ và tên người sử dụng": "KHL Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-KHL210",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "63WM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.210",
+        "MAC Address": "18:66:DA:28:79:12"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER XP-470B",
+          "serial": "S470BUH247050029"
+        },
+        {
+          "type": "scanner",
+          "name": "HONEYWELL 1450G",
+          "serial": "17074B185F"
+        }
+      ],
+      "createdAt": "2026-06-10T08:50:23",
+      "updatedAt": "2026-06-10T08:50:23"
+    },
+    {
+      "id": "6e680912326f454ab3cb9e28c8b74fa9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4880",
+        "Tên Xã": "Hương Bình",
+        "Mã Bưu cục": "487200",
+        "Tên Bưu cục": "VHX Hương Bình",
+        "Họ và tên người sử dụng": "nguyễn thị hồng thúy",
+        "Mã HRM": "00102945",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HK-HB487200",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "FGXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.200.58.11",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:52:12",
+      "updatedAt": "2026-06-10T08:52:12"
+    },
+    {
+      "id": "9bdcb984189448798c7e248c6fd6dad2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483700",
+        "Tên Bưu cục": "HỒNG LĨNH",
+        "Họ và tên người sử dụng": "PHAN THỊ MỸ DUYÊN",
+        "Mã HRM": "00229296",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HL-GD-100",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "FBWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.228",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T08:56:03",
+      "updatedAt": "2026-06-10T08:56:03"
+    },
+    {
+      "id": "ba355a5ffcd641e286adf747e1968206",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480900",
+        "Tên Bưu cục": "KT1 Hà Tĩnh",
+        "Họ và tên người sử dụng": "KT1 Hà Tĩnh",
+        "Mã HRM": "480900",
+        "Bộ phận / Phòng ban": "KT1 Hà Tĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LK5",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.217",
+        "MAC Address": "10:B6:76:9E:C9:58"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "Zebra DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:56:20",
+      "updatedAt": "2026-06-10T08:56:20"
+    },
+    {
+      "id": "a1ea34e178ca40a181abfb5f1b27759a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484470",
+        "Tên Bưu cục": "bưu cục vhx xuân phổ",
+        "Họ và tên người sử dụng": "nguyễn thị duyên",
+        "Mã HRM": "00027805",
+        "Bộ phận / Phòng ban": "gdv, vhx xuân phổ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOSTPC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1SF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "458 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "64:00:6A:01:E5:61"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": "ds22"
+        }
+      ],
+      "createdAt": "2026-06-10T08:57:31",
+      "updatedAt": "2026-06-10T08:57:31"
+    },
+    {
+      "id": "050efcff8dfa41bbab1c25a1db3cc060",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4822",
+        "Tên Xã": "TIÊN ĐIỀN",
+        "Mã Bưu cục": "484400",
+        "Tên Bưu cục": "NGHI XUÂN",
+        "Họ và tên người sử dụng": "PHAN THU PHƯƠNG",
+        "Mã HRM": "00027800",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KEIFQ37",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM09VHSN",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.144.111",
+        "MAC Address": "88:AE:DD:5D:D7:B6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T08:58:35",
+      "updatedAt": "2026-06-10T08:58:35"
+    },
+    {
+      "id": "b73e1b3c14244523ae2a3f46bb3b6f4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4864",
+        "Tên Xã": "Hương Phố",
+        "Mã Bưu cục": "486960",
+        "Tên Bưu cục": "VHX Hương Giang",
+        "Họ và tên người sử dụng": "Nguyễn Thì Hường",
+        "Mã HRM": "00028088",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133DB",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "38:22:E2:19:3E:13"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T08:58:56",
+      "updatedAt": "2026-06-10T08:58:56"
+    },
+    {
+      "id": "63ad3f40a90243b6b3d43a9ad5457e7b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484543",
+        "Tên Bưu cục": "484543",
+        "Họ và tên người sử dụng": "PHAN THỊ HAI YẾN",
+        "Mã HRM": "00027827",
+        "Bộ phận / Phòng ban": "VHX XUÂN HỘI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-NX-KETOAN2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "71CCBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.59.25",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "POSBANK",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T09:01:16",
+      "updatedAt": "2026-06-10T09:01:16"
+    },
+    {
+      "id": "c063bab0bdfb44d39327a7e279c21850",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL Ha Tinh",
+        "Họ và tên người sử dụng": "KHL Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BBSH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.213",
+        "MAC Address": "64:00:6A:07:79:C8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "d3204205214"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": "18155523400131"
+        }
+      ],
+      "createdAt": "2026-06-10T09:07:06",
+      "updatedAt": "2026-06-10T09:07:06"
+    },
+    {
+      "id": "ec7d19bf35c34d3fa79e7fcd56ef8115",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL Ha Tinh",
+        "Họ và tên người sử dụng": "KHL Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BBSH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.213",
+        "MAC Address": "64:00:6A:07:79:C8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "d3j204205214"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": "18155523400131"
+        }
+      ],
+      "createdAt": "2026-06-10T09:10:18",
+      "updatedAt": "2026-06-10T09:10:18"
+    },
+    {
+      "id": "ccd47a983848420ba22c84a1ed2a0da9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL Ha Tinh",
+        "Họ và tên người sử dụng": "KHL Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-KHL212",
+        "Loại máy": "Desktop",
+        "Hãng": "Acer",
+        "Model": "Aspire XC-710",
+        "Năm sản xuất": "",
+        "Serial Number": "DTB16SV00261002A0A3000",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.212",
+        "MAC Address": "F4:4D:30:45:6A:70"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra DZ620",
+          "serial": "D3J204202071"
+        },
+        {
+          "type": "scanner",
+          "name": "Honeywell",
+          "serial": "17074B39EB"
+        }
+      ],
+      "createdAt": "2026-06-10T09:11:53",
+      "updatedAt": "2026-06-10T09:11:53"
+    },
+    {
+      "id": "418733054edb4212a0e3dfaee9cebb15",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Lê Thị Tú Anh",
+        "Mã HRM": "00027542",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THUYDUNG",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP ProBook 440 G5",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD8401NP3",
+        "CPU": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.211.1",
+        "MAC Address": "00:50:56:C0:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T09:22:37",
+      "updatedAt": "2026-06-10T09:22:37"
+    },
+    {
+      "id": "63feba9cfdbe464e8b3b0e198e0d4343",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "481470",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481470",
+        "Tên Bưu cục": "KHL Ha Tinh",
+        "Họ và tên người sử dụng": "KHL Ha Tinh",
+        "Mã HRM": "481470",
+        "Bộ phận / Phòng ban": "KHL Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "65DH8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.240",
+        "MAC Address": "18:66:DA:27:8C:16"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T09:26:49",
+      "updatedAt": "2026-06-10T09:26:49"
+    },
+    {
+      "id": "bff1cc443e0746d297112a1f002138ae",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484670",
+        "Tên Bưu cục": "Bưu điện Xuân Lĩnh",
+        "Họ và tên người sử dụng": "Trần Thị Giang",
+        "Mã HRM": "00255533",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "XUANLINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7B9BBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "B8:85:84:AB:18:CB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T09:28:53",
+      "updatedAt": "2026-06-10T09:28:53"
+    },
+    {
+      "id": "e25de93065ef45759697b7a09c6ae300",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488400",
+        "Tên Bưu cục": "Bưu cục giao dịch Kỳ Anh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Oanh",
+        "Mã HRM": "00028222",
+        "Bộ phận / Phòng ban": "Bưu điện xã Kỳ Xuân",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HKA-GD35",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821140653",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.145",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T09:31:17",
+      "updatedAt": "2026-06-10T09:31:17"
+    },
+    {
+      "id": "a7b4c1ca2caa4122a0877ef9e266dcd9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4848",
+        "Tên Xã": "kỳ anh",
+        "Mã Bưu cục": "488570",
+        "Tên Bưu cục": "kỳ đồng",
+        "Họ và tên người sử dụng": "nguyễn thị ánh",
+        "Mã HRM": "00100220",
+        "Bộ phận / Phòng ban": "giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KYDONG-4885",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LM8",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.21",
+        "MAC Address": "F8:ED:FC:6A:70:57"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T09:34:22",
+      "updatedAt": "2026-06-10T09:34:22"
+    },
+    {
+      "id": "61c6fafefe284c019a688057fe9c2c0a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "48400",
+        "Tên Bưu cục": "Bưu điện xã Kỳ Xuân",
+        "Họ và tên người sử dụng": "Hoàng Mỹ Ngọc",
+        "Mã HRM": "00228659",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAYCHUINHP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0490QZK",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "424 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.152.110",
+        "MAC Address": "30:24:A9:85:84:CB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T09:37:44",
+      "updatedAt": "2026-06-10T09:37:44"
+    },
+    {
+      "id": "6a4fe138b97f4cb6a2ebc3e8922e6d76",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4848",
+        "Tên Xã": "KỲ ANH",
+        "Mã Bưu cục": "488630",
+        "Tên Bưu cục": "BĐVH KỲ GIANG",
+        "Họ và tên người sử dụng": "LÊ THỊ LƯỢNG",
+        "Mã HRM": "00028237",
+        "Bộ phận / Phòng ban": "VH XÃ KỲ GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KYGIANG-488",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221TX",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.100.8",
+        "MAC Address": "10:B6:76:9E:C5:F7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T09:45:27",
+      "updatedAt": "2026-06-10T09:45:27"
+    },
+    {
+      "id": "6620fd3308714d6b9a76fbda09aac7ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4848",
+        "Tên Xã": "kỳ anh",
+        "Mã Bưu cục": "488570",
+        "Tên Bưu cục": "kỳ đồng",
+        "Họ và tên người sử dụng": "nguyễn thị hằng",
+        "Mã HRM": "00251009",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HKA-KDONG-4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W631H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "48:4D:7E:DB:7C:E4"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honey well",
+          "serial": "1707483664"
+        }
+      ],
+      "createdAt": "2026-06-10T09:46:51",
+      "updatedAt": "2026-06-10T09:46:51"
+    },
+    {
+      "id": "6bbc4dd6a7f5412680fb62cf591341c4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4848",
+        "Tên Xã": "kỳ anh",
+        "Mã Bưu cục": "488590",
+        "Tên Bưu cục": "kỳ phú",
+        "Họ và tên người sử dụng": "nguyễn thị thái hòa",
+        "Mã HRM": "00028249",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HKA-KPHU-48",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.155",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honey well",
+          "serial": "17074B3664"
+        }
+      ],
+      "createdAt": "2026-06-10T09:57:12",
+      "updatedAt": "2026-06-10T09:57:12"
+    },
+    {
+      "id": "c50cbe2f509f42e6ad04ce9ff870aea2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4851",
+        "Tên Xã": "kỳ khang",
+        "Mã Bưu cục": "488470",
+        "Tên Bưu cục": "kỳ thư",
+        "Họ và tên người sử dụng": "nguyễn thi mỹ",
+        "Mã HRM": "00271960",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KYTHU-48847",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2VH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "64:00:6A:01:E4:46"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T10:01:39",
+      "updatedAt": "2026-06-10T10:01:39"
+    },
+    {
+      "id": "09da19e9af1940219d54093eade56899",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4851",
+        "Tên Xã": "kỳ khang",
+        "Mã Bưu cục": "488570",
+        "Tên Bưu cục": "kỳ khang",
+        "Họ và tên người sử dụng": "nguyễn thị tuyết",
+        "Mã HRM": "00028240",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132QB",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.26",
+        "MAC Address": "38:22:E2:18:8A:5C"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "hone well",
+          "serial": "170743364"
+        }
+      ],
+      "createdAt": "2026-06-10T10:06:35",
+      "updatedAt": "2026-06-10T10:06:35"
+    },
+    {
+      "id": "480296a964244620837912d7fb229ef8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Văn phòng Bưu điện tỉnh",
+        "Mã HRM": "481120",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-N70ACOU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "643D8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "211 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.18",
+        "MAC Address": "18:66:DA:28:CF:A5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-10T10:19:13",
+      "updatedAt": "2026-06-10T10:19:13"
+    },
+    {
+      "id": "391e86cba0bc4556a999c14bcc23b7ea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4821",
+        "Tên Xã": "Bưu điện phường  Nam Hồng Lĩnh",
+        "Mã Bưu cục": "483700",
+        "Tên Bưu cục": "Bưu cục Trung tâm",
+        "Họ và tên người sử dụng": "Phan Thị Hoài Thu",
+        "Mã HRM": "00027750",
+        "Bộ phận / Phòng ban": "VPH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOSTPC",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "7VWS3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "458 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.143.66",
+        "MAC Address": "98:40:BB:0A:0F:A1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T10:50:12",
+      "updatedAt": "2026-06-10T10:50:12"
+    },
+    {
+      "id": "94f7a9787f63441fb2e2172676543273",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484960",
+        "Tên Bưu cục": "vhx yên hồ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hướng",
+        "Mã HRM": "00215457",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-YH484960",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B07K862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "64:00:6A:00:2C:5E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T10:51:35",
+      "updatedAt": "2026-06-10T10:51:35"
+    },
+    {
+      "id": "d648ed0e417a43e2971472dd7aceb7a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "xã đức quang hà tĩnh",
+        "Mã Bưu cục": "485030",
+        "Tên Bưu cục": "vhx đức vĩnh",
+        "Họ và tên người sử dụng": "trương thị mỹ dung",
+        "Mã HRM": "00027904",
+        "Bộ phận / Phòng ban": "vhx đức vĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-DA485360",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "647L8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.34",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T11:16:42",
+      "updatedAt": "2026-06-10T11:16:42"
+    },
+    {
+      "id": "c76da0a71b1048ae99140e171100cfc2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "485030",
+        "Tên Xã": "xã đức quang hà tĩnh",
+        "Mã Bưu cục": "485030",
+        "Tên Bưu cục": "vhx đức vĩnh",
+        "Họ và tên người sử dụng": "trương thị mỹ dung",
+        "Mã HRM": "00027904",
+        "Bộ phận / Phòng ban": "vhx đức vĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-DA485360",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "-7",
+        "Serial Number": "647L8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.34",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T11:20:46",
+      "updatedAt": "2026-06-10T11:20:46"
+    },
+    {
+      "id": "56f9ff048fa74fec9a8bab5ed599e8d2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "TTVH Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Phạm Lê Hữu Tình",
+        "Mã HRM": "00231439",
+        "Bộ phận / Phòng ban": "KT Hồng Lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HLKT152",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.143.60",
+        "MAC Address": "2C:FD:A1:74:B9:F9"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "intermec PC43c",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "mờ tên do cũ quá rồi",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T23:28:55",
+      "updatedAt": "2026-06-10T23:28:55"
+    },
+    {
+      "id": "4ae9681144c04a1f8049c0f2f1b44ead",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "BCVH Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Lê Thị Thanh Hiền",
+        "Mã HRM": "00027757",
+        "Bộ phận / Phòng ban": "GĐ BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-NX-KT222",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221TV",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.143.52",
+        "MAC Address": "10:B6:76:9E:21:24"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "XP-470B"
+        },
+        {
+          "type": "scanner",
+          "name": "Mờ ko thấy do máy đã cũ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-10T23:36:17",
+      "updatedAt": "2026-06-10T23:36:17"
+    },
+    {
+      "id": "88b7fc718d5f437fb6e665b148688b3d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485700",
+        "Tên Bưu cục": "bc choi",
+        "Họ và tên người sử dụng": "Phan Thị Trang",
+        "Mã HRM": "00074793",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-CHOI5700",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Y6C1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.89",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T00:48:23",
+      "updatedAt": "2026-06-11T00:48:23"
+    },
+    {
+      "id": "512749699bda43959de9b6528d47e763",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Lê Hữu Đàm",
+        "Mã HRM": "000238433",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DAMLH",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15s-fq1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD105M79R",
+        "CPU": "Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.107",
+        "MAC Address": "A4:97:B1:D6:24:B7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T00:59:36",
+      "updatedAt": "2026-06-11T00:59:36"
+    },
+    {
+      "id": "9d51349422f24cad90fb237208329ac7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "MAI PHỤ",
+        "Mã Bưu cục": "482050",
+        "Tên Bưu cục": "CHỢ PHỦ",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ HUYỀN TRANG",
+        "Mã HRM": "00220912",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN TẠI ĐIỂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "2C:F0:5D:54:D8:AA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T01:53:48",
+      "updatedAt": "2026-06-11T01:53:48"
+    },
+    {
+      "id": "f54c8b265cd342c1ac1ff17110490af7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "Mai Phụ",
+        "Mã Bưu cục": "482020",
+        "Tên Bưu cục": "VHX Mai Phụ",
+        "Họ và tên người sử dụng": "Nguyễn Thị KIm Cúc",
+        "Mã HRM": "00028308",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LH-MAIPHU-4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Y061H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.239",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LHP 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T01:55:16",
+      "updatedAt": "2026-06-11T01:55:16"
+    },
+    {
+      "id": "1dea4d2ee52b4ffc85c9f4eb28e9252d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "MAI PHỤ",
+        "Mã Bưu cục": "482050",
+        "Tên Bưu cục": "CHỢ PHỦ",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ HUYỀN TRANG",
+        "Mã HRM": "00220912",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN TẠI ĐIỂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "2C:F0:5D:54:D8:AA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T01:56:55",
+      "updatedAt": "2026-06-11T01:56:55"
+    },
+    {
+      "id": "e220e7b222b148949f1ffbb17465f48f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488670",
+        "Tên Bưu cục": "VHX Kỳ Xuân",
+        "Họ và tên người sử dụng": "Nguyễn Văn Chuẩn",
+        "Mã HRM": "002",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-B1INA0K",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "191 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "B4:2E:99:76:37:C7"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T01:57:35",
+      "updatedAt": "2026-06-11T01:57:35"
+    },
+    {
+      "id": "8ba1d5920a8f42319000ae2b6458c3df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "MAI PHỤ",
+        "Mã Bưu cục": "482050",
+        "Tên Bưu cục": "CHỢ PHỦ",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ HUYỀN TRANG",
+        "Mã HRM": "00220912",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN TẠI ĐIỂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "2C:F0:5D:54:D8:AA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T01:58:43",
+      "updatedAt": "2026-06-11T01:58:43"
+    },
+    {
+      "id": "9934082991fb438abda2a96d5a2a2cb1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Thạch lưu",
+        "Mã Bưu cục": "482480",
+        "Tên Bưu cục": "thạch lưu",
+        "Họ và tên người sử dụng": "nguyễn thị hương",
+        "Mã HRM": "00027721",
+        "Bộ phận / Phòng ban": "bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "482480-THACHLUU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "40MB1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "48:4D:7E:DB:77:19"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T02:01:35",
+      "updatedAt": "2026-06-11T02:01:35"
+    },
+    {
+      "id": "0e9e5e7865f94666aa7c9ca30a4fb399",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488760",
+        "Tên Bưu cục": "BĐVHX Kỳ Tây",
+        "Họ và tên người sử dụng": "Phạm Thị Thảo",
+        "Mã HRM": "00240641",
+        "Bộ phận / Phòng ban": "BĐVHX Kỳ Xuân",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TXKA-KTAY11",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113370",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "38:22:E2:18:89:23"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T02:07:21",
+      "updatedAt": "2026-06-11T02:07:21"
+    },
+    {
+      "id": "5c966c7004c2430fb4d3c5d1fb940ead",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4872",
+        "Tên Xã": "XA LỘC HÀ",
+        "Mã Bưu cục": "483020",
+        "Tên Bưu cục": "VHX THINH LỘC",
+        "Họ và tên người sử dụng": "PHAN THỊ ANH THƠ",
+        "Mã HRM": "0028296",
+        "Bộ phận / Phòng ban": "NHAN VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LH-THINHLOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "79L8BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.58",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:15:06",
+      "updatedAt": "2026-06-11T02:15:06"
+    },
+    {
+      "id": "59778b8860ef405a863188518ee3f39c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "Mai Phụ",
+        "Mã Bưu cục": "482100",
+        "Tên Bưu cục": "VHX Thạch Mỹ",
+        "Họ và tên người sử dụng": "Phan Thị Huyền",
+        "Mã HRM": "00028317",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KJ0EG7I",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011332F",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "354 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.236",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:31:59",
+      "updatedAt": "2026-06-11T02:31:59"
+    },
+    {
+      "id": "b983172f0e1649ebb4b0893b973ae66b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4865",
+        "Tên Xã": "Hà Linh",
+        "Mã Bưu cục": "487010",
+        "Tên Bưu cục": "VHX Hà Linh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ngân Hoa",
+        "Mã HRM": "00028090",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221VQ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "10:B6:76:9E:20:E0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T02:46:40",
+      "updatedAt": "2026-06-11T02:46:40"
+    },
+    {
+      "id": "9e64a181ccb44200bf74716fd89906fb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "483100",
+        "Tên Xã": "CAN LỘC",
+        "Mã Bưu cục": "483100",
+        "Tên Bưu cục": "VƯỢNG LỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ QUỲNH",
+        "Mã HRM": "00027654",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-VL-48310",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-H M.2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.28",
+        "MAC Address": "10:FF:E0:FA:AA:63"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:00:16",
+      "updatedAt": "2026-06-11T03:00:16"
+    },
+    {
+      "id": "594ebd833e1c4f37ac769f1fb9081ea4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "483100",
+        "Tên Xã": "CAN LỘC",
+        "Mã Bưu cục": "483100",
+        "Tên Bưu cục": "VƯỢNG LỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ QUỲNH",
+        "Mã HRM": "00027654",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-VL-48310",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-H M.2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.28",
+        "MAC Address": "10:FF:E0:FA:AA:63"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:16",
+      "updatedAt": "2026-06-11T03:01:16"
+    },
+    {
+      "id": "8d0cfdf05a504483aacdcf06a03b213a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488960",
+        "Tên Bưu cục": "BĐVHX Kỳ Trung",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hà",
+        "Mã HRM": "00028267",
+        "Bộ phận / Phòng ban": "BĐVHX Kỳ Trung",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KYTRUNG-488",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72N5BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "B8:85:84:AB:12:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:05:07",
+      "updatedAt": "2026-06-11T03:05:07"
+    },
+    {
+      "id": "f9ac4e383e9b4163a4d4006c6a870ac6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Xã Tùng Lộc",
+        "Mã Bưu cục": "482930",
+        "Tên Bưu cục": "Bưu điện vh xã Tùng Lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng",
+        "Mã HRM": "00217905",
+        "Bộ phận / Phòng ban": "Giao dich viên văn hóa xã Tùng  Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-TUNGLOC4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "649F8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.59",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:07:59",
+      "updatedAt": "2026-06-11T03:07:59"
+    },
+    {
+      "id": "5dace8b0aab544bb9d76e1366b54a4c6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "482630",
+        "Tên Xã": "thạch điền",
+        "Mã Bưu cục": "482630",
+        "Tên Bưu cục": "bưu cục xã thạch điền",
+        "Họ và tên người sử dụng": "nguyễn thị hằng",
+        "Mã HRM": "00027742",
+        "Bộ phận / Phòng ban": "bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "482630-THACHDIE",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7FMFBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.224",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:10:11",
+      "updatedAt": "2026-06-11T03:10:11"
+    },
+    {
+      "id": "3e45023b8a45470cb53410c97c5e9166",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4814",
+        "Tên Xã": "Bưu điện Xã Can Lộc",
+        "Mã Bưu cục": "482909",
+        "Tên Bưu cục": "Văn phòng Bưu điện xã Can Lộc",
+        "Họ và tên người sử dụng": "Võ Thị Thương",
+        "Mã HRM": "0028272",
+        "Bộ phận / Phòng ban": "Quản Lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Máy tính xách tay",
+        "Loại máy": "",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:21:21",
+      "updatedAt": "2026-06-11T03:21:21"
+    },
+    {
+      "id": "7e4b584cb5214ea79adbd80570be7264",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4814",
+        "Tên Xã": "Bưu điện Xã Can Lộc",
+        "Mã Bưu cục": "482909",
+        "Tên Bưu cục": "Văn phòng Bưu điện xã Can Lộc",
+        "Họ và tên người sử dụng": "Trần Thị Hải Lý",
+        "Mã HRM": "00027618",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Máy tính bàn",
+        "Loại máy": "",
+        "Hãng": "Dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:22:53",
+      "updatedAt": "2026-06-11T03:22:53"
+    },
+    {
+      "id": "e10fc983900b49ef8c372dc186d3d778",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4814",
+        "Tên Xã": "Bưu điện Xã Can Lộc",
+        "Mã Bưu cục": "482909",
+        "Tên Bưu cục": "Văn phòng Bưu điện xã Can Lộc",
+        "Họ và tên người sử dụng": "Đặng Thị Hằng",
+        "Mã HRM": "00027610",
+        "Bộ phận / Phòng ban": "Kho quỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Máy tính bàn",
+        "Loại máy": "",
+        "Hãng": "Dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:23:59",
+      "updatedAt": "2026-06-11T03:23:59"
+    },
+    {
+      "id": "d751bb5b7b4245d1a823ac9cb036dafd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4872",
+        "Tên Xã": "xã lộc hà",
+        "Mã Bưu cục": "482090",
+        "Tên Bưu cục": "bc thạch kim",
+        "Họ và tên người sử dụng": "phan thị chanh",
+        "Mã HRM": "00028288",
+        "Bộ phận / Phòng ban": "giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LH-KTOAN2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1045 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "18:C0:4D:1F:5B:CC"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:24:43",
+      "updatedAt": "2026-06-11T03:24:43"
+    },
+    {
+      "id": "19da48bbbd45498a870a88c099671552",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4872",
+        "Tên Xã": "lộc hà",
+        "Mã Bưu cục": "482090",
+        "Tên Bưu cục": "thạch kim",
+        "Họ và tên người sử dụng": "phan thị chanh",
+        "Mã HRM": "00028288",
+        "Bộ phận / Phòng ban": "giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LH-KTOAN2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1045 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "18:C0:4D:1F:5B:CC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:30:50",
+      "updatedAt": "2026-06-11T03:30:50"
+    },
+    {
+      "id": "0c92ae5cee534803a0b74426318ae044",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4829",
+        "Tên Xã": "TÙNG LỘC",
+        "Mã Bưu cục": "482970",
+        "Tên Bưu cục": "BĐVHX PHÚC LỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ CHIẾN",
+        "Mã HRM": "00027688",
+        "Bộ phận / Phòng ban": "NV VXH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8F09U82",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "658N8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "18:66:DA:27:EC:20"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:38:48",
+      "updatedAt": "2026-06-11T03:38:48"
+    },
+    {
+      "id": "5ee50324cf1f44a1af07755667a92c29",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4829",
+        "Tên Xã": "TÙNG LỘC",
+        "Mã Bưu cục": "482970",
+        "Tên Bưu cục": "BĐVHX PHÚC LỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ CHIẾN",
+        "Mã HRM": "00027688",
+        "Bộ phận / Phòng ban": "NV VXH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8F09U82",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "658N8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "18:66:DA:27:EC:20"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:41:33",
+      "updatedAt": "2026-06-11T03:41:33"
+    },
+    {
+      "id": "6ad0becfdcc847298f165706bc273577",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482240",
+        "Tên Bưu cục": "vhx thạch hội",
+        "Họ và tên người sử dụng": "phạm thị lệ thủy",
+        "Mã HRM": "00027720",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TH-THI-4822",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3YB51H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "48:4D:7E:D8:28:D9"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:43:58",
+      "updatedAt": "2026-06-11T03:43:58"
+    },
+    {
+      "id": "03f25f02200c46e0a472c6343a93ed81",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485624",
+        "Tên Bưu cục": "485624 - VP BĐH Hương Sơn",
+        "Họ và tên người sử dụng": "Lê Thị Kim Chi",
+        "Mã HRM": "00220056",
+        "Bộ phận / Phòng ban": "Nhân Viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.146.45",
+        "MAC Address": "D8:5E:D3:97:54:B1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:48:11",
+      "updatedAt": "2026-06-11T03:48:11"
+    },
+    {
+      "id": "81a5a963e3a640b39d159e0250405fe3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482460",
+        "Tên Bưu cục": "bắc sơn",
+        "Họ và tên người sử dụng": "trần thị yến",
+        "Mã HRM": "00027696",
+        "Bộ phận / Phòng ban": "bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-APKRL53",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "71C6BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "404 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.249",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:55:50",
+      "updatedAt": "2026-06-11T03:55:50"
+    },
+    {
+      "id": "64fc175be625483999a51c0caef87648",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482220",
+        "Tên Bưu cục": "vhx thạch văn",
+        "Họ và tên người sử dụng": "nguyễn thị tuyết",
+        "Mã HRM": "00028704",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TH-TVN-4822",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3X4C1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "48:4D:7E:DB:7C:1C"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:59:04",
+      "updatedAt": "2026-06-11T03:59:04"
+    },
+    {
+      "id": "39fa156a62bb422284b8a25c173b7acd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "4826",
+        "Tên Bưu cục": "Đức Thọ",
+        "Họ và tên người sử dụng": "Phan Thị Ngọc Lan",
+        "Mã HRM": "00027843",
+        "Bộ phận / Phòng ban": "Kế toán địa bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KETOAN2_HS_62",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6TWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Avast Antivirus",
+        "IP Address": "10.43.145.38",
+        "MAC Address": "F8:BC:12:A5:7D:65"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:44:18",
+      "updatedAt": "2026-06-11T03:44:18"
+    },
+    {
+      "id": "97bcc1fd7be2467f8c498e683599cafe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "482610",
+        "Tên Xã": "nam hương",
+        "Mã Bưu cục": "482610",
+        "Tên Bưu cục": "nam hương",
+        "Họ và tên người sử dụng": "nguyễn thị mai",
+        "Mã HRM": "00102565",
+        "Bộ phận / Phòng ban": "bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "482610-NAMHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "79JFBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "471 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "B8:85:84:AB:1F:7F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T04:05:56",
+      "updatedAt": "2026-06-11T04:05:56"
+    },
+    {
+      "id": "c530b90581c7429d9e72f61136167d03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484430",
+        "Tên Xã": "VHX Xuân Yên",
+        "Mã Bưu cục": "484430",
+        "Tên Bưu cục": "VHX Xuân Yên",
+        "Họ và tên người sử dụng": "Đặng Thị Chinh",
+        "Mã HRM": "00027816",
+        "Bộ phận / Phòng ban": "Nhân viên BĐ VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64MF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.196",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "hỏng",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T04:09:58",
+      "updatedAt": "2026-06-11T04:09:58"
+    },
+    {
+      "id": "86e7751c0f864956ba230cf4a31e24b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Bưu cục 2 Đức Thọ",
+        "Họ và tên người sử dụng": "Võ Thị Thanh Xuân",
+        "Mã HRM": "00027853",
+        "Bộ phận / Phòng ban": "Tổ giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-GD10",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821142234",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.22",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T04:22:08",
+      "updatedAt": "2026-06-11T04:22:08"
+    },
+    {
+      "id": "dd74b5de5c9a4407bc8b56b139b541f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Bưu cục 2 Đức Thọ",
+        "Họ và tên người sử dụng": "Phạm Thị Hoa",
+        "Mã HRM": "0027838",
+        "Bộ phận / Phòng ban": "Tổ giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-GD12",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821130021",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.145.12",
+        "MAC Address": "50:AF:73:37:97:DB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T04:28:35",
+      "updatedAt": "2026-06-11T04:28:35"
+    },
+    {
+      "id": "397209d95b79408b91beed4ca0baa7ba",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "frtrtfhgfh",
+        "Tên Bưu cục": "fghfgh",
+        "Họ và tên người sử dụng": "fghxdfdg",
+        "Mã HRM": "dfgfhfghfghgf",
+        "Bộ phận / Phòng ban": "fghfghfghfg",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TQ1IKD6",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C89",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "703 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.42.48.97",
+        "MAC Address": "2C:F0:5D:61:4E:51"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T07:03:20",
+      "updatedAt": "2026-06-11T07:03:20"
+    }
+  ]
+}
