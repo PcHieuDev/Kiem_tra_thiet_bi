@@ -60,4 +60,4 @@ Start-Sleep -Seconds 4
 
 Write-Host "Da cai Task Scheduler: $taskName"
 Write-Host "Server se tu chay khi Windows khoi dong."
-Write-Host "URL: http://10.43.128.10:8789/"
+Write-Host "URL: http://10.42.40.20:8789/"

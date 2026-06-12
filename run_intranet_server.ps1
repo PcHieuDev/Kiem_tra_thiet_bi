@@ -58,18 +58,19 @@ $env:DEVICE_INVENTORY_PORT = "8789"
 $env:DEVICE_INVENTORY_DATA_ROOT = $root
 
 if (-not $env:DEVICE_INVENTORY_ADMIN_PASSWORD) {
-    $env:DEVICE_INVENTORY_ADMIN_PASSWORD = "250389"
+    $env:DEVICE_INVENTORY_ADMIN_PASSWORD = "nghean123"
 }
 
 Set-Location $root
 
-try {
-    "[$(Get-Date -Format s)] Starting intranet server with Python: $python" |
-        Add-Content -Path $logPath -Encoding UTF8
-    & $python -B (Join-Path $root "server.py") *>> $logPath
-} catch {
-    "[$(Get-Date -Format s)] $($_.Exception.Message)" | Add-Content -Path $logPath -Encoding UTF8
-    throw
-} finally {
-    Remove-Item -LiteralPath $pidPath -Force -ErrorAction SilentlyContinue
+while ($true) {
+    try {
+        "[$(Get-Date -Format s)] Starting intranet server with Python: $python" | Add-Content -Path $logPath -Encoding UTF8
+        & $python -B (Join-Path $root "server.py") *>> $logPath
+    } catch {
+        "[$(Get-Date -Format s)] $($_.Exception.Message)" | Add-Content -Path $logPath -Encoding UTF8
+    }
+    "[$(Get-Date -Format s)] Server crashed or stopped, restarting in 5 seconds..." | Add-Content -Path $logPath -Encoding UTF8
+    Start-Sleep -Seconds 5
 }
+Remove-Item -LiteralPath $pidPath -Force -ErrorAction SilentlyContinue

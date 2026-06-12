@@ -55,17 +55,22 @@ MAX_UPLOAD_BYTES = 50 * 1024 * 1024
 MAX_CLIENT_INFO_BYTES = 256 * 1024
 CLIENT_INFO_TTL_SECONDS = 30 * 60
 CLIENT_INVENTORY_TTL_SECONDS = 60 * 60
-ADMIN_PASSWORD = os.environ.get("DEVICE_INVENTORY_ADMIN_PASSWORD", "250389")
+ADMIN_PASSWORD = os.environ.get("DEVICE_INVENTORY_ADMIN_PASSWORD", "nghean123")
 ADMIN_COOKIE_NAME = "device_inventory_admin"
 ADMIN_SESSION_SECONDS = 12 * 60 * 60
 ADMIN_SESSION_SECRET = secrets.token_bytes(32)
 CLIENT_INVENTORY_LOCK = threading.RLock()
 
-COMMON_REQUIRED = [
-    "Tên Tỉnh",
+GLOBAL_EXCLUDED_FIELDS = {
+    "Mã BĐ Xã",
+    "Tên Xã",
     "Tên Bưu cục",
     "Họ và tên người sử dụng",
     "Bộ phận / Phòng ban",
+}
+
+COMMON_REQUIRED = [
+    "Tên Tỉnh",
     "Mã vật tư",
     "Tên tài sản\n(Theo danh mục CCDC)",
     "Tình trạng",
@@ -311,9 +316,9 @@ def template_schema() -> list[dict]:
             continue
         ws = wb[sheet_name]
         fields = [header for header in visible_headers(ws) if header != "STT"]
-        form_fields = fields
+        form_fields = [field for field in fields if field not in GLOBAL_EXCLUDED_FIELDS]
         if sheet_name == "3. Máy Tính":
-            form_fields = [field for field in fields if field not in COMPUTER_FORM_EXCLUDED]
+            form_fields = [field for field in form_fields if field not in COMPUTER_FORM_EXCLUDED]
         schema.append(
             {
                 "id": sheet_name,
@@ -372,13 +377,8 @@ def clean_attachments(value: object) -> list[dict]:
 def expanded_records(records: list[dict]) -> list[dict]:
     output = list(records)
     copied_fields = [
-        "Mã BĐ Xã",
-        "Tên Xã",
         "Mã Bưu cục",
-        "Tên Bưu cục",
-        "Họ và tên người sử dụng",
         "Mã HRM",
-        "Bộ phận / Phòng ban",
     ]
     for record in records:
         if record.get("category") != "3. Máy Tính":
@@ -623,6 +623,7 @@ def compute_stats(records: list[dict]) -> dict:
 
 class InventoryHandler(BaseHTTPRequestHandler):
     server_version = "DeviceInventoryTool/1.0"
+    timeout = 15  # Tự động ngắt kết nối nếu mạng yếu/chập chờn để tránh treo server
 
     def log_message(self, fmt: str, *args) -> None:
         print(f"[{self.log_date_time_string()}] {fmt % args}")

@@ -2,10 +2,10 @@
   --ink: #17252e;
   --muted: #667782;
   --line: #d7e0e6;
-  --canvas: #f5f7f8;
+  --canvas: #f0f4f8;
   --surface: #ffffff;
-  --primary: #0f766e;
-  --primary-dark: #115e59;
+  --primary: #004b87;
+  --primary-dark: #003662;
   --danger: #b42318;
   --warning: #b45309;
   --good: #167044;
@@ -74,8 +74,9 @@ button:disabled {
   align-items: center;
   justify-content: space-between;
   gap: 18px;
-  background: #154e5a;
+  background: #004b87;
   color: #fff;
+  box-shadow: 0 4px 12px rgba(0,75,135,0.2);
 }
 
 .brand {
@@ -113,7 +114,7 @@ h2 {
 
 .eyebrow {
   margin: 0 0 4px;
-  color: #b9dfe4;
+  color: #fdb913;
   text-transform: uppercase;
   font-size: 11px;
   font-weight: 800;
@@ -132,21 +133,15 @@ h2 {
 }
 
 .layout {
-  max-width: 1540px;
+  max-width: 1080px;
   margin: 0 auto;
-  padding: 22px clamp(14px, 2.6vw, 32px) 34px;
+  padding: 32px clamp(14px, 2.6vw, 32px);
   display: grid;
-  grid-template-columns: 306px minmax(0, 1fr);
+  grid-template-columns: 1fr;
   gap: 24px;
 }
 
-.rail {
-  border-right: 1px solid var(--line);
-  padding-right: 22px;
-  display: flex;
-  flex-direction: column;
-  gap: 26px;
-}
+
 
 .facts {
   margin: 13px 0 0;
@@ -313,11 +308,12 @@ label.is-required > span {
 .analysis > div {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.04);
 }
 
 .form-panel {
-  padding: 16px;
+  padding: 24px;
   max-width: 1080px;
 }
 
@@ -419,6 +415,12 @@ textarea.input {
 
 .admin-dashboard {
   display: grid;
+  gap: 24px;
+}
+
+.admin-tools {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 18px;
 }
 

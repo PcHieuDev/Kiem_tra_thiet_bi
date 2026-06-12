@@ -7,12 +7,15 @@ const GITHUB_API = "https://api.github.com";
 
 // Trường bắt buộc – Mã vật tư / Năm sản xuất / Office / Tình trạng là KHÔNG bắt buộc
 const COMMON_REQUIRED = [
-  "Mã Bưu cục", "Tên Bưu cục",
-  "Họ và tên người sử dụng",
+  "Mã Bưu cục",
   "Mã HRM",
-  "Bộ phận / Phòng ban",
   "Tên tài sản\n(Theo danh mục CCDC)",
 ];
+
+const HIDDEN_FIELDS = new Set([
+  "Mã BĐ Xã", "Tên Xã", "Tên Bưu cục",
+  "Họ và tên người sử dụng", "Bộ phận / Phòng ban"
+]);
 
 const COMPUTER_FORM_EXCLUDED = new Set([
   "Mã Tỉnh", "Tên Tỉnh",
@@ -26,10 +29,7 @@ const COMPUTER_FORM_EXCLUDED = new Set([
 const ATTACHMENT_TYPES = [
   { id: "laser_printer",   name: "Máy in laser",          category: "4A. Máy In Laser" },
   { id: "thermal_printer", name: "Máy in nhiệt",          category: "4B. Máy In Nhiệt" },
-  { id: "photocopier",     name: "Máy photocopy",         category: "4C. Máy Photocopy" },
   { id: "barcode_reader",  name: "Đầu đọc mã vạch",      category: "5. Đầu Đọc Mã Vạch" },
-  { id: "scanner",         name: "Máy quét (Scanner)",    category: "8. Thiết Bị Khác" },
-  { id: "ups",             name: "Bộ lưu điện (UPS)",     category: "8. Thiết Bị Khác" },
 ];
 
 const EXCLUDED_KEYWORDS = ["server", "máy chủ", "nas", "san"];
@@ -161,123 +161,34 @@ function fieldInputType(field) {
   return "text";
 }
 
-// ─── GitHub API ───────────────────────────────────────────────────────────────
+// ─── Local API ────────────────────────────────────────────────────────────────
 
-function getWriteToken() {
-  // Thứ tự ưu tiên:
-  // 1. Admin session (sessionStorage) – đăng nhập quản trị
-  // 2. localStorage (thiết lập thủ công trước đó)
-  // 3. Token inject từ GitHub Actions Secret (tự động cho mọi client)
-  return sessionStorage.getItem("gh_admin_token")
-    || localStorage.getItem("gh_write_token")
-    || (typeof GITHUB_CONFIG !== "undefined" && GITHUB_CONFIG.writeToken)
-    || "";
-}
-
-function getAdminToken() {
-  return sessionStorage.getItem("gh_admin_token") || "";
-}
-
-function getWriteTokenLabel() {
-  if (sessionStorage.getItem("gh_admin_token")) return "admin";
-  if (localStorage.getItem("gh_write_token")) return "write";
-  return null;
-}
-
-async function githubGet(path, token) {
-  const headers = { Accept: "application/vnd.github+json" };
-  if (token) headers["Authorization"] = `Bearer ${token}`;
-  const res = await fetch(`${GITHUB_API}${path}`, { headers });
-  return res;
-}
-
-// Giải mã base64 UTF-8 đúng cách – atob() chỉ xử lý Latin-1, không xử lý tiếng Việt!
-function decodeBase64UTF8(b64) {
-  const binary = atob(b64.replace(/\n/g, ""));
-  const bytes = new Uint8Array(binary.length);
-  for (let i = 0; i < binary.length; i++) {
-    bytes[i] = binary.charCodeAt(i);
-  }
-  return new TextDecoder("utf-8").decode(bytes);
-}
-
-async function loadInventoryFromGitHub() {
-  const token = getWriteToken();
-
-  // Nếu có token: dùng Contents API (không bị cache CDN, luôn có dữ liệu mới nhất)
-  if (token && token !== "PASTE_YOUR_FINE_GRAINED_PAT_HERE") {
-    try {
-      const res = await githubGet(
-        `/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.dataFile}`,
-        token
-      );
-      if (res.ok) {
-        const data = await res.json();
-        // Dùng decodeBase64UTF8 thay vì atob() để xử lý đúng tiếng Việt
-        const decoded = decodeBase64UTF8(data.content);
-        return JSON.parse(decoded);
-      }
-    } catch { /* fall through to raw URL */ }
-  }
-
-  // Không có token (public read): dùng raw URL với cache-bust
-  const rawUrl = `https://raw.githubusercontent.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/${GITHUB_CONFIG.branch}/${GITHUB_CONFIG.dataFile}?t=${Date.now()}`;
-  try {
-    const res = await fetch(rawUrl);
-    if (!res.ok) return { records: [] };
-    return await res.json();
-  } catch {
-    return { records: [] };
-  }
-}
-
-async function getInventorySha(token) {
-  const res = await githubGet(
-    `/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.dataFile}`,
-    token
-  );
-  if (!res.ok) return null;
-  const data = await res.json();
-  return data.sha || null;
-}
-
-async function saveInventoryToGitHub(records, commitMessage) {
-  const token = getWriteToken();
-  if (!token) {
-    throw new Error(
-      "Chưa có token ghi dữ liệu. " +
-      "Vui lòng liên hệ quản trị viên để thiết lập."
-    );
-  }
-
-  // Lấy SHA hiện tại (bắt buộc cho GitHub PUT API)
-  const sha = await getInventorySha(token);
-
-  const content = JSON.stringify({ records }, null, 2);
-  const encoded = btoa(unescape(encodeURIComponent(content)));
-
-  const body = { message: commitMessage, content: encoded, branch: GITHUB_CONFIG.branch };
-  if (sha) body.sha = sha;
-
-  const res = await fetch(
-    `${GITHUB_API}/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.dataFile}`,
-    {
-      method: "PUT",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        Accept: "application/vnd.github+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(body),
-    }
-  );
-
+async function apiCall(method, path, body = null) {
+  const options = {
+    method,
+    headers: { "Content-Type": "application/json" },
+    credentials: "same-origin", // Sử dụng Cookie để xác thực admin
+  };
+  if (body) options.body = JSON.stringify(body);
+  const res = await fetch(path, options);
   if (!res.ok) {
     const err = await res.json().catch(() => ({}));
-    throw new Error(err.message || `Lỗi GitHub API: ${res.status}`);
+    throw new Error(err.error || `Lỗi máy chủ: ${res.status}`);
   }
   return res.json();
 }
+
+// Kiểm tra phiên đăng nhập ngay khi tải trang
+async function checkSession() {
+  try {
+    const res = await apiCall("GET", "/api/admin/session");
+    setAdminUi(res.authenticated);
+  } catch (e) {
+    setAdminUi(false);
+  }
+}
+checkSession();
+
 
 // ─── Render ───────────────────────────────────────────────────────────────────
 
@@ -323,18 +234,24 @@ function renderFields(record = null) {
       const id = `field-${btoa(unescape(encodeURIComponent(field))).replace(/=+$/g, "")}`;
       const value = values[field] || "";
       const wide = isLongField(field) ? " is-wide" : "";
+      const isHidden = typeof HIDDEN_FIELDS !== 'undefined' && HIDDEN_FIELDS.has(field);
+      const hiddenStyle = isHidden ? ' style="display:none;"' : '';
       const isReq = reqSet.has(field);
-      const reqAttr = isReq ? " required" : "";
+      const reqAttr = (isReq && !isHidden) ? " required" : "";
       const reqMark = isReq ? ` <span class="req-mark" title="Bắt buộc">*</span>` : "";
       if (isLongField(field)) {
-        return `<label class="${wide}${isReq ? " is-required" : ""}">
+        return `<label class="${wide}${isReq ? " is-required" : ""}"${hiddenStyle}>
           <span>${escapeHtml(field)}${reqMark}</span>
           <textarea class="input" name="${escapeHtml(field)}" id="${id}"${reqAttr}>${escapeHtml(value)}</textarea>
         </label>`;
       }
-      return `<label class="${wide}${isReq ? " is-required" : ""}">
+      let extraAttrs = "";
+      if (field === "Mã HRM") {
+        extraAttrs = ' minlength="8" maxlength="8"';
+      }
+      return `<label class="${wide}${isReq ? " is-required" : ""}"${hiddenStyle}>
         <span>${escapeHtml(field)}${reqMark}</span>
-        <input class="input" name="${escapeHtml(field)}" id="${id}" type="${fieldInputType(field)}" value="${escapeHtml(value)}"${reqAttr} />
+        <input class="input" name="${escapeHtml(field)}" id="${id}" type="${fieldInputType(field)}" value="${escapeHtml(value)}"${reqAttr}${extraAttrs} />
       </label>`;
     })
     .join("");
@@ -542,11 +459,15 @@ function setAdminUi(authenticated) {
 // ─── Tải & lưu dữ liệu ───────────────────────────────────────────────────────
 
 async function loadRecords() {
-  const payload = await loadInventoryFromGitHub();
-  state.records = payload.records || [];
-  state.stats = computeStats(state.records);
-  renderRecords();
-  renderStats();
+  try {
+    const payload = await apiCall("GET", "/api/records");
+    state.records = payload.records || [];
+    state.stats = payload.stats || computeStats(state.records);
+    renderRecords();
+    renderStats();
+  } catch (err) {
+    console.error("Lỗi tải dữ liệu", err);
+  }
 }
 
 function resetForm({ keepStatus = false } = {}) {
@@ -586,6 +507,19 @@ async function saveRecord(event) {
     return;
   }
 
+  // Kiểm tra Mã HRM
+  const hrmValue = formValues["Mã HRM"]?.trim();
+  if (hrmValue && hrmValue.length !== 8) {
+    const el = dynamicFields.querySelector(`[name="Mã HRM"]`);
+    if (el) {
+      el.classList.add("input-error");
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+    formStatus.textContent = "Mã HRM bắt buộc phải đủ 8 ký tự.";
+    formStatus.className = "status form-status is-error";
+    return;
+  }
+
   // Kiểm tra bổ sung: Nhóm Máy Tính phải lấy thông tin phần cứng trước
   if (category.value === "3. Máy Tính" && !formValues["Tên máy (Hostname)"]?.trim()) {
     const banner = document.getElementById("machine-info-banner");
@@ -603,43 +537,29 @@ async function saveRecord(event) {
 
 
   try {
-    // Tải bản hiện tại từ GitHub để tránh ghi đè mất dữ liệu
-    const payload = await loadInventoryFromGitHub();
-    const records = payload.records || [];
-
-    const existing = records.find((r) => r.id === state.selectedId);
     const now = nowIso();
+    const recordPayload = {
+      id: state.selectedId, // API sẽ cập nhật nếu có id, ngược lại tạo mới
+      category: category.value,
+      fields: formValues,
+      attachments: readAttachments(),
+      createdAt: now
+    };
 
-    if (existing && state.isAdmin) {
-      // Cập nhật phiếu đã chọn
-      Object.assign(existing, {
-        category: category.value,
-        fields: readFormFields(),
-        attachments: readAttachments(),
-        updatedAt: now,
-      });
-    } else {
-      // Thêm phiếu mới
-      records.push({
-        id: uuid(),
-        category: category.value,
-        fields: readFormFields(),
-        attachments: readAttachments(),
-        createdAt: now,
-        updatedAt: now,
-      });
+    const res = await apiCall("POST", "/api/records", recordPayload);
+
+    if (state.isAdmin && res.record && res.stats) {
+      // Nếu là Admin thì server trả về danh sách đầy đủ để cập nhật UI
+      const idx = state.records.findIndex(r => r.id === res.record.id);
+      if (idx !== -1) state.records[idx] = res.record;
+      else state.records.push(res.record);
+      state.stats = res.stats;
+      renderRecords();
+      renderStats();
     }
 
-    await saveInventoryToGitHub(records, `Cập nhật phiếu thiết bị – ${now}`);
-
-    // Cập nhật state trực tiếp – không cần đọc lại từ GitHub (tránh cache CDN)
-    state.records = records;
-    state.stats = computeStats(records);
-    renderRecords();
-    renderStats();
-
     resetForm({ keepStatus: true });
-    formStatus.textContent = "Đã gửi phiếu thành công lên GitHub.";
+    formStatus.textContent = "Đã gửi phiếu thành công.";
     formStatus.className = "status form-status is-success";
   } catch (err) {
     formStatus.textContent = err.message || "Không lưu được phiếu.";
@@ -648,12 +568,14 @@ async function saveRecord(event) {
 }
 
 async function deleteRecord(id) {
+  if (!confirm("Bạn có chắc chắn muốn xóa phiếu này?")) return;
   try {
-    const payload = await loadInventoryFromGitHub();
-    const records = (payload.records || []).filter((r) => r.id !== id);
-    await saveInventoryToGitHub(records, `Xóa phiếu ${id}`);
+    const res = await apiCall("DELETE", `/api/records?id=${id}`);
+    state.records = state.records.filter((r) => r.id !== id);
+    state.stats = res.stats || computeStats(state.records);
+    renderRecords();
+    renderStats();
     if (state.selectedId === id) resetForm();
-    setTimeout(loadRecords, 1500);
   } catch (err) {
     alert("Không xóa được phiếu: " + err.message);
   }
@@ -670,36 +592,23 @@ function editRecord(id) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
-// ─── Admin Auth (GitHub PAT) ──────────────────────────────────────────────────
+// ─── Admin Auth (Local API) ──────────────────────────────────────────────────
 
 async function loginAdmin(event) {
   event.preventDefault();
-  const token = adminPassword.value.trim();
-  if (!token) return;
+  const password = adminPassword.value.trim();
+  if (!password) return;
 
-  adminLoginStatus.textContent = "Đang xác thực token GitHub...";
+  adminLoginStatus.textContent = "Đang xác thực...";
   try {
-    // Xác minh token bằng cách gọi /user API
-    const res = await fetch(`${GITHUB_API}/user`, {
-      headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" },
-    });
-    if (!res.ok) throw new Error("Token không hợp lệ hoặc đã hết hạn.");
-
-    const user = await res.json();
-    sessionStorage.setItem("gh_admin_token", token);
-    sessionStorage.setItem("gh_admin_user", user.login || "");
-
-    // Lưu luôn vào localStorage để dùng chung cho việc gửi phiếu (write token)
-    const saveAsWrite = document.getElementById("chk-save-write-token")?.checked;
-    if (saveAsWrite) {
-      localStorage.setItem("gh_write_token", token);
+    const res = await apiCall("POST", "/api/admin/login", { password });
+    if (res.authenticated) {
+      adminPassword.value = "";
+      adminLoginStatus.textContent = "";
+      adminDialog.close();
+      setAdminUi(true);
+      await loadRecords();
     }
-
-    adminPassword.value = "";
-    adminLoginStatus.textContent = "";
-    adminDialog.close();
-    setAdminUi(true);
-    await loadRecords();
   } catch (err) {
     adminLoginStatus.textContent = err.message || "Xác thực thất bại.";
   }
@@ -707,48 +616,14 @@ async function loginAdmin(event) {
 
 function exportExcel() {
   if (!state.isAdmin) return;
-  const XLSX = window.XLSX;
-  if (!XLSX) { alert("Thư viện SheetJS chưa được tải."); return; }
-  if (!state.records || state.records.length === 0) {
-    alert("Không có dữ liệu để xuất."); return;
-  }
-
-  const wb = XLSX.utils.book_new();
-  const expanded = expandedRecords(state.records);
-
-  // Map category id → schema (cộ định hóa bằng trim() để tránh lỗi khoảng trắng)
-  const schemaMap = new Map(state.schema.map((s) => [s.id.trim(), s]));
-
-  const grouped = new Map(state.schema.map((s) => [s.id.trim(), []]));
-  for (const rec of expanded) {
-    const cat = (rec.category || "").trim();
-    if (grouped.has(cat)) {
-      grouped.get(cat).push(rec);
-    }
-  }
-
-  let sheetCount = 0;
-  for (const schema of state.schema) {
-    const rows = grouped.get(schema.id.trim()) || [];
-    const headers = (schema.fields || []).filter((f) => f !== "STT");
-    const data = [["STT", ...headers]];
-    rows.forEach((rec, idx) => {
-      data.push([idx + 1, ...headers.map((h) => rec.fields?.[h] ?? "")]);
-    });
-    const ws = XLSX.utils.aoa_to_sheet(data);
-
-    // Tên sheet Excel giới hạn 31 ký tự, loại bỏ ký tự không hợp lệ
-    const sheetName = schema.id.replace(/[\[\]\*\/\\\?\:]/g, "").slice(0, 31);
-    XLSX.utils.book_append_sheet(wb, ws, sheetName || `Sheet${++sheetCount}`);
-  }
-
-  const ts = new Date().toISOString().slice(0, 16).replace(/[-T:]/g, "");
-  XLSX.writeFile(wb, `Ra_Soat_Thiet_Bi_CNTT_${ts}.xlsx`);
+  // Kích hoạt đường dẫn API để server trả file Excel tải về
+  window.location.href = "/api/export-excel";
 }
 
 async function logoutAdmin() {
-  sessionStorage.removeItem("gh_admin_token");
-  sessionStorage.removeItem("gh_admin_user");
+  try {
+    await apiCall("POST", "/api/admin/logout");
+  } catch (e) {}
   resetForm();
   setAdminUi(false);
 }
@@ -930,93 +805,35 @@ function exportJson() {
 
 async function importExcel() {
   if (!excelFile.files[0] || !state.isAdmin) return;
-  const XLSX = window.XLSX;
-  if (!XLSX) { alert("Thư viện SheetJS chưa được tải."); return; }
-
+  
   importButton.disabled = true;
-  importStatus.textContent = "Đang đọc file Excel...";
+  importStatus.textContent = "Đang gửi file Excel lên máy chủ...";
 
   try {
-    const buffer = await excelFile.files[0].arrayBuffer();
-    const wb = XLSX.read(buffer, { type: "array" });
+    const formData = new FormData();
+    formData.append("file", excelFile.files[0]);
 
-    const schemaById = Object.fromEntries(state.schema.map((s) => [s.id, s]));
-    const newRecords = [];
+    const res = await fetch("/api/import-excel", {
+      method: "POST",
+      body: formData,
+      credentials: "same-origin", // Sử dụng Cookie để xác thực admin
+    });
 
-    for (const sheetName of state.schema.map((s) => s.id)) {
-      if (!wb.SheetNames.includes(sheetName) || !schemaById[sheetName]) continue;
-      const ws = wb.Sheets[sheetName];
-      const rows = XLSX.utils.sheet_to_json(ws, { header: 1, defval: "" });
-      if (rows.length < 5) continue;
-
-      const headers = rows[3].map((h) => String(h || "").trim());
-      for (let i = 4; i < rows.length; i++) {
-        const row = rows[i];
-        const fields = {};
-        let hasData = false;
-        headers.forEach((h, idx) => {
-          if (h && h !== "STT") {
-            const val = String(row[idx] || "").trim();
-            fields[h] = val;
-            if (val) hasData = true;
-          }
-        });
-        if (!hasData) continue;
-        newRecords.push({
-          id: uuid(), category: sheetName,
-          fields, attachments: [],
-          createdAt: nowIso(), updatedAt: nowIso(),
-        });
-      }
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.error || `Lỗi máy chủ: ${res.status}`);
     }
 
-    if (newRecords.length === 0) {
-      importStatus.textContent = "Không tìm thấy dữ liệu hợp lệ trong file.";
-      importButton.disabled = false;
-      return;
-    }
-
-    // Merge với dữ liệu hiện có
-    const payload = await loadInventoryFromGitHub();
-    const existing = payload.records || [];
-
-    // Upsert theo identity (category + serial/hostname/asset)
-    function recordKey(r) {
-      const f = r.fields || {};
-      return [
-        r.category,
-        f["Số thẻ\n(Số mã trên phiếu kê tài sản)"],
-        f["Serial Number"],
-        f["Tên máy (Hostname)"],
-        f["Tên Bưu cục"],
-        f["Tên tài sản\n(Theo danh mục CCDC)"],
-      ].map((v) => String(v || "").trim().toLowerCase()).join("|");
-    }
-
-    const index = Object.fromEntries(existing.filter(recordKey).map((r) => [recordKey(r), r]));
-    let inserted = 0, updated = 0;
-
-    for (const nr of newRecords) {
-      const key = recordKey(nr);
-      if (key && index[key]) {
-        Object.assign(index[key].fields, nr.fields);
-        index[key].updatedAt = nowIso();
-        updated++;
-      } else {
-        existing.push(nr);
-        if (key) index[key] = nr;
-        inserted++;
-      }
-    }
-
-    importStatus.textContent = "Đang lưu lên GitHub...";
-    await saveInventoryToGitHub(existing, `Import Excel: +${inserted} mới, ${updated} cập nhật`);
-    importStatus.textContent = `Nhập xong: ${newRecords.length} dòng đọc, thêm ${inserted}, cập nhật ${updated}.`;
-    setTimeout(loadRecords, 1500);
+    const data = await res.json();
+    importStatus.textContent = `Nhập xong: ${data.read} dòng, thêm ${data.inserted}, cập nhật ${data.updated}.`;
+    
+    setTimeout(loadRecords, 1000);
   } catch (err) {
     importStatus.textContent = "Lỗi: " + err.message;
   } finally {
     importButton.disabled = false;
+    excelFile.value = "";
+    fileName.textContent = "Chọn file .xlsx";
   }
 }
 
@@ -1024,9 +841,9 @@ async function importExcel() {
 
 async function resetData() {
   if (!state.isAdmin) return;
-  if (!confirm("Xóa toàn bộ dữ liệu đang lưu trên GitHub?")) return;
+  if (!confirm("Xóa toàn bộ dữ liệu đang lưu trên Máy chủ?")) return;
   try {
-    await saveInventoryToGitHub([], "Reset – xóa toàn bộ dữ liệu");
+    await apiCall("POST", "/api/reset");
     resetForm();
     setTimeout(loadRecords, 1500);
   } catch (err) {
@@ -1037,7 +854,6 @@ async function resetData() {
 // ─── Event Listeners ──────────────────────────────────────────────────────────
 
 document.getElementById("btn-admin-login").addEventListener("click", () => adminDialog.showModal());
-document.getElementById("btn-close-dialog").addEventListener("click", () => adminDialog.close());
 document.getElementById("admin-login-form").addEventListener("submit", loginAdmin);
 document.getElementById("btn-admin-logout").addEventListener("click", logoutAdmin);
 document.getElementById("btn-export-excel").addEventListener("click", exportExcel);
@@ -1080,21 +896,6 @@ recordBody.addEventListener("click", (event) => {
 (async function init() {
   renderCategoryOptions();
   renderFields();
-
-  // Kiểm tra session admin đã lưu
-  const savedToken = sessionStorage.getItem("gh_admin_token");
-  if (savedToken) {
-    // Xác minh token còn hợp lệ
-    const res = await fetch(`${GITHUB_API}/user`, {
-      headers: { Authorization: `Bearer ${savedToken}`, Accept: "application/vnd.github+json" },
-    }).catch(() => null);
-    if (res?.ok) {
-      setAdminUi(true);
-      await loadRecords();
-    } else {
-      sessionStorage.removeItem("gh_admin_token");
-    }
-  }
 
   // Đọc thông tin máy từ URL params (do lay_thong_tin.bat tạo ra)
   loadClientInfoFromUrlParams();

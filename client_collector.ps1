@@ -1,5 +1,5 @@
 param(
-    [string]$ServerUrl = "https://PcHieuDev.github.io/Kiem_tra_thiet_bi"
+    [string]$ServerUrl = "http://10.42.40.20:8789"
 )
 
 # Xóa dấu / cuối nếu có

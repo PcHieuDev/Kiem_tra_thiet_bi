@@ -73,6 +73,6 @@ Write-Host "Giao thuc vnpost:// da duoc dang ky." -ForegroundColor White
 Write-Host "Khi nhan nut 'Lam moi thong tin may' tren trang web," -ForegroundColor White
 Write-Host "trinh duyet se tu dong lay thong tin may tinh nay." -ForegroundColor White
 Write-Host ""
-Write-Host "URL ung dung: https://PcHieuDev.github.io/Kiem_tra_thiet_bi/" -ForegroundColor Cyan
+Write-Host "URL ung dung: http://10.42.40.20:8789/" -ForegroundColor Cyan
 Write-Host "Kiem tra thanh cong!" -ForegroundColor Green
 Write-Host ""
