@@ -1,5 +1,4 @@
 @echo off
-chcp 65001 >nul 2>&1
 
 :: ─────────────────────────────────────────────────────────────────────────────
 :: VNPost Device Inventory – Thu thap thong tin may tinh
@@ -14,11 +13,12 @@ chcp 65001 >nul 2>&1
 :: ─────────────────────────────────────────────────────────────────────────────
 
 powershell -NoExit -NoProfile -ExecutionPolicy Bypass -Command ^
+ "$batPath='%~f0';" ^
  "$u='http://10.42.40.20:8789';" ^
  "try{" ^
  "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
  "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
- "  $s=$MyInvocation.MyCommand.Path;" ^
+ "  $s=$batPath;" ^
  "  if($s -and (Test-Path $s)){Copy-Item $s (Join-Path $d 'lay_thong_tin.bat') -Force};" ^
  "  $bat=Join-Path $d 'lay_thong_tin.bat';" ^
  "  $q34=[char]34;" ^
@@ -48,4 +48,4 @@ powershell -NoExit -NoProfile -ExecutionPolicy Bypass -Command ^
  "$av=(Get-WmiObject -Namespace 'root\SecurityCenter2' -Class AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
  "function E($v){if(-not $v){return ''};[System.Uri]::EscapeDataString($v.ToString().Trim())};" ^
  "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer)+'&model='+(E $cs.Model)+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '));" ^
- "$url=$u+'/?'+$q;try{Start-Process 'chrome.exe' $url -ErrorAction Stop}catch{Start-Process 'cmd.exe' ('/c start chrome '+$q34+$url+$q34)}"
+ "$url=$u+'/?'+$q; try{ Start-Process $url -ErrorAction Stop } catch { Start-Process 'cmd.exe' ('/c start '+$q34+$q34+' '+$q34+$url+$q34) }"
